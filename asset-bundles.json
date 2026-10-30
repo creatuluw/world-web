@@ -37,3638 +37,3653 @@
      "length": 3700
     },
     {
-     "path": "world/rules/player.yaml",
+     "path": "world/maps/blank-shellmap/map.bin",
      "offset": 61337,
+     "length": 142
+    },
+    {
+     "path": "world/maps/blank-shellmap/map.png",
+     "offset": 61479,
+     "length": 69
+    },
+    {
+     "path": "world/maps/blank-shellmap/map.yaml",
+     "offset": 61548,
+     "length": 1534
+    },
+    {
+     "path": "world/rules/player.yaml",
+     "offset": 63082,
      "length": 82
     },
     {
      "path": "world/rules/structures.yaml",
-     "offset": 61419,
+     "offset": 63164,
      "length": 231
     },
     {
      "path": "world/rules/world.yaml",
-     "offset": 61650,
+     "offset": 63395,
      "length": 157
     },
     {
      "path": "world/tilesets/world.yaml",
-     "offset": 61807,
+     "offset": 63552,
      "length": 558
     },
     {
      "path": "cnc/chrome.yaml",
-     "offset": 62365,
+     "offset": 64110,
      "length": 15217
     },
     {
      "path": "cnc/cursors.yaml",
-     "offset": 77582,
+     "offset": 79327,
      "length": 3355
     },
     {
      "path": "cnc/hotkeys.yaml",
-     "offset": 80937,
+     "offset": 82682,
      "length": 835
     },
     {
      "path": "cnc/icon-2x.png",
-     "offset": 81772,
+     "offset": 83517,
      "length": 6197
     },
     {
      "path": "cnc/icon-3x.png",
-     "offset": 87969,
+     "offset": 89714,
      "length": 10654
     },
     {
      "path": "cnc/icon.png",
-     "offset": 98623,
+     "offset": 100368,
      "length": 2246
     },
     {
      "path": "cnc/metrics.yaml",
-     "offset": 100869,
+     "offset": 102614,
      "length": 203
     },
     {
      "path": "cnc/missions.yaml",
-     "offset": 101072,
+     "offset": 102817,
      "length": 416
     },
     {
      "path": "cnc/mod.yaml",
-     "offset": 101488,
+     "offset": 103233,
      "length": 6255
     },
     {
      "path": "cnc/audio/music.yaml",
-     "offset": 107743,
+     "offset": 109488,
      "length": 2330
     },
     {
      "path": "cnc/audio/notifications.yaml",
-     "offset": 110073,
+     "offset": 111818,
      "length": 2697
     },
     {
      "path": "cnc/audio/voices.yaml",
-     "offset": 112770,
+     "offset": 114515,
      "length": 1566
     },
     {
      "path": "cnc/bits/a10cr.tem",
-     "offset": 114336,
+     "offset": 116081,
      "length": 4672
     },
     {
      "path": "cnc/bits/afld.shp",
-     "offset": 119008,
+     "offset": 120753,
      "length": 7440
     },
     {
      "path": "cnc/bits/afld_d.shp",
-     "offset": 126448,
+     "offset": 128193,
      "length": 1916
     },
     {
      "path": "cnc/bits/allyrepair.shp",
-     "offset": 128364,
+     "offset": 130109,
      "length": 1097
     },
     {
      "path": "cnc/bits/apcmuz.shp",
-     "offset": 129461,
+     "offset": 131206,
      "length": 1654
     },
     {
      "path": "cnc/bits/apctur.shp",
-     "offset": 131115,
+     "offset": 132860,
      "length": 7139
     },
     {
      "path": "cnc/bits/atomicon.shp",
-     "offset": 138254,
+     "offset": 139999,
      "length": 515
     },
     {
      "path": "cnc/bits/beaconclock.shp",
-     "offset": 138769,
+     "offset": 140514,
      "length": 5932
     },
     {
      "path": "cnc/bits/boaticnh.shp",
-     "offset": 144701,
+     "offset": 146446,
      "length": 1995
     },
     {
      "path": "cnc/bits/bombicon.shp",
-     "offset": 146696,
+     "offset": 148441,
      "length": 547
     },
     {
      "path": "cnc/bits/c17icnh.shp",
-     "offset": 147243,
+     "offset": 148988,
      "length": 2187
     },
     {
      "path": "cnc/bits/camera.shp",
-     "offset": 149430,
+     "offset": 151175,
      "length": 94
     },
     {
      "path": "cnc/bits/chan.shp",
-     "offset": 149524,
+     "offset": 151269,
      "length": 16361
     },
     {
      "path": "cnc/bits/civcapt1.aud",
-     "offset": 165885,
+     "offset": 167630,
      "length": 25674
     },
     {
      "path": "cnc/bits/cliffsl1.sno",
-     "offset": 191559,
+     "offset": 193304,
      "length": 1074
     },
     {
      "path": "cnc/bits/cliffsl1.tem",
-     "offset": 192633,
+     "offset": 194378,
      "length": 1188
     },
     {
      "path": "cnc/bits/cliffsl1.win",
-     "offset": 193821,
+     "offset": 195566,
      "length": 1206
     },
     {
      "path": "cnc/bits/cliffsl2.sno",
-     "offset": 195027,
+     "offset": 196772,
      "length": 992
     },
     {
      "path": "cnc/bits/cliffsl2.tem",
-     "offset": 196019,
+     "offset": 197764,
      "length": 1159
     },
     {
      "path": "cnc/bits/cliffsl2.win",
-     "offset": 197178,
+     "offset": 198923,
      "length": 1172
     },
     {
      "path": "cnc/bits/cliffsl3.sno",
-     "offset": 198350,
+     "offset": 200095,
      "length": 1023
     },
     {
      "path": "cnc/bits/cliffsl3.tem",
-     "offset": 199373,
+     "offset": 201118,
      "length": 1090
     },
     {
      "path": "cnc/bits/cliffsl3.win",
-     "offset": 200463,
+     "offset": 202208,
      "length": 1214
     },
     {
      "path": "cnc/bits/cliffsl4.sno",
-     "offset": 201677,
+     "offset": 203422,
      "length": 1013
     },
     {
      "path": "cnc/bits/cliffsl4.tem",
-     "offset": 202690,
+     "offset": 204435,
      "length": 1195
     },
     {
      "path": "cnc/bits/cliffsl4.win",
-     "offset": 203885,
+     "offset": 205630,
      "length": 1141
     },
     {
      "path": "cnc/bits/cloakcrate.shp",
-     "offset": 205026,
+     "offset": 206771,
      "length": 7024
     },
     {
      "path": "cnc/bits/cycl.shp",
-     "offset": 212050,
+     "offset": 213795,
      "length": 7635
     },
     {
      "path": "cnc/bits/dinoatk1.aud",
-     "offset": 219685,
+     "offset": 221430,
      "length": 7925
     },
     {
      "path": "cnc/bits/dinodie1.aud",
-     "offset": 227610,
+     "offset": 229355,
      "length": 9808
     },
     {
      "path": "cnc/bits/dinomout.aud",
-     "offset": 237418,
+     "offset": 239163,
      "length": 6724
     },
     {
      "path": "cnc/bits/dinoyes.aud",
-     "offset": 244142,
+     "offset": 245887,
      "length": 9504
     },
     {
      "path": "cnc/bits/enemya.aud",
-     "offset": 253646,
+     "offset": 255391,
      "length": 25628
     },
     {
      "path": "cnc/bits/eye.shp",
-     "offset": 279274,
+     "offset": 281019,
      "length": 15974
     },
     {
      "path": "cnc/bits/eyemake.shp",
-     "offset": 295248,
+     "offset": 296993,
      "length": 9533
     },
     {
      "path": "cnc/bits/fact.shp",
-     "offset": 304781,
+     "offset": 306526,
      "length": 40095
     },
     {
      "path": "cnc/bits/facticnh.shp",
-     "offset": 344876,
+     "offset": 346621,
      "length": 2357
     },
     {
      "path": "cnc/bits/fb4.shp",
-     "offset": 347233,
+     "offset": 348978,
      "length": 213
     },
     {
      "path": "cnc/bits/fullshroud.shp",
-     "offset": 347446,
+     "offset": 349191,
      "length": 43
     },
     {
      "path": "cnc/bits/gun5.aud",
-     "offset": 347489,
+     "offset": 349234,
      "length": 13277
     },
     {
      "path": "cnc/bits/gunfire2.shp",
-     "offset": 360766,
+     "offset": 362511,
      "length": 455
     },
     {
      "path": "cnc/bits/hand.shp",
-     "offset": 361221,
+     "offset": 362966,
      "length": 4950
     },
     {
      "path": "cnc/bits/handmake.shp",
-     "offset": 366171,
+     "offset": 367916,
      "length": 19932
     },
     {
      "path": "cnc/bits/harvdump.shp",
-     "offset": 386103,
+     "offset": 387848,
      "length": 3062
     },
     {
      "path": "cnc/bits/harvlost.aud",
-     "offset": 389165,
+     "offset": 390910,
      "length": 19006
     },
     {
      "path": "cnc/bits/hclock.shp",
-     "offset": 408171,
+     "offset": 409916,
      "length": 10119
     },
     {
      "path": "cnc/bits/healcrate.shp",
-     "offset": 418290,
+     "offset": 420035,
      "length": 3126
     },
     {
      "path": "cnc/bits/heli.shp",
-     "offset": 421416,
+     "offset": 423161,
      "length": 7171
     },
     {
      "path": "cnc/bits/ionicnh.tem",
-     "offset": 428587,
+     "offset": 430332,
      "length": 2693
     },
     {
      "path": "cnc/bits/levelup.shp",
-     "offset": 431280,
+     "offset": 433025,
      "length": 345
     },
     {
      "path": "cnc/bits/lsticnh.shp",
-     "offset": 431625,
+     "offset": 433370,
      "length": 2402
     },
     {
      "path": "cnc/bits/mbFIX.des",
-     "offset": 434027,
+     "offset": 435772,
      "length": 1052
     },
     {
      "path": "cnc/bits/mbFIX.sno",
-     "offset": 435079,
+     "offset": 436824,
      "length": 869
     },
     {
      "path": "cnc/bits/mbFIX.tem",
-     "offset": 435948,
+     "offset": 437693,
      "length": 1068
     },
     {
      "path": "cnc/bits/mbGTWR.des",
-     "offset": 437016,
+     "offset": 438761,
      "length": 192
     },
     {
      "path": "cnc/bits/mbGTWR.sno",
-     "offset": 437208,
+     "offset": 438953,
      "length": 195
     },
     {
      "path": "cnc/bits/mbGTWR.tem",
-     "offset": 437403,
+     "offset": 439148,
      "length": 199
     },
     {
      "path": "cnc/bits/mbGUN.des",
-     "offset": 437602,
+     "offset": 439347,
      "length": 243
     },
     {
      "path": "cnc/bits/mbGUN.sno",
-     "offset": 437845,
+     "offset": 439590,
      "length": 222
     },
     {
      "path": "cnc/bits/mbGUN.tem",
-     "offset": 438067,
+     "offset": 439812,
      "length": 259
     },
     {
      "path": "cnc/bits/mbHOSP.des",
-     "offset": 438326,
+     "offset": 440071,
      "length": 944
     },
     {
      "path": "cnc/bits/mbHOSP.sno",
-     "offset": 439270,
+     "offset": 441015,
      "length": 857
     },
     {
      "path": "cnc/bits/mbHOSP.tem",
-     "offset": 440127,
+     "offset": 441872,
      "length": 1090
     },
     {
      "path": "cnc/bits/mbMISS.des",
-     "offset": 441217,
+     "offset": 442962,
      "length": 1202
     },
     {
      "path": "cnc/bits/mbMISS.sno",
-     "offset": 442419,
+     "offset": 444164,
      "length": 853
     },
     {
      "path": "cnc/bits/mbMISS.tem",
-     "offset": 443272,
+     "offset": 445017,
      "length": 1257
     },
     {
      "path": "cnc/bits/mbOBLI.des",
-     "offset": 444529,
+     "offset": 446274,
      "length": 176
     },
     {
      "path": "cnc/bits/mbOBLI.sno",
-     "offset": 444705,
+     "offset": 446450,
      "length": 168
     },
     {
      "path": "cnc/bits/mbOBLI.tem",
-     "offset": 444873,
+     "offset": 446618,
      "length": 184
     },
     {
      "path": "cnc/bits/mbSILO.des",
-     "offset": 445057,
+     "offset": 446802,
      "length": 672
     },
     {
      "path": "cnc/bits/mbSILO.sno",
-     "offset": 445729,
+     "offset": 447474,
      "length": 628
     },
     {
      "path": "cnc/bits/mbSILO.tem",
-     "offset": 446357,
+     "offset": 448102,
      "length": 783
     },
     {
      "path": "cnc/bits/mhqicnh.shp",
-     "offset": 447140,
+     "offset": 448885,
      "length": 2773
     },
     {
      "path": "cnc/bits/missicnh.shp",
-     "offset": 449913,
+     "offset": 451658,
      "length": 2738
     },
     {
      "path": "cnc/bits/missmake.shp",
-     "offset": 452651,
+     "offset": 454396,
      "length": 17864
     },
     {
      "path": "cnc/bits/mlrs.shp",
-     "offset": 470515,
+     "offset": 472260,
      "length": 25774
     },
     {
      "path": "cnc/bits/mlrsicnh.tem",
-     "offset": 496289,
+     "offset": 498034,
      "length": 2211
     },
     {
      "path": "cnc/bits/moebius.shp",
-     "offset": 498500,
+     "offset": 500245,
      "length": 17778
     },
     {
      "path": "cnc/bits/mouse2.shp",
-     "offset": 516278,
+     "offset": 518023,
      "length": 23247
     },
     {
      "path": "cnc/bits/mouse3.shp",
-     "offset": 539525,
+     "offset": 541270,
      "length": 399
     },
     {
      "path": "cnc/bits/mouse4.shp",
-     "offset": 539924,
+     "offset": 541669,
      "length": 7927
     },
     {
      "path": "cnc/bits/mouse5.shp",
-     "offset": 547851,
+     "offset": 549596,
      "length": 2844
     },
     {
      "path": "cnc/bits/mouse6.shp",
-     "offset": 550695,
+     "offset": 552440,
      "length": 1979
     },
     {
      "path": "cnc/bits/mouse7.shp",
-     "offset": 552674,
+     "offset": 554419,
      "length": 2629
     },
     {
      "path": "cnc/bits/mpspawn.shp",
-     "offset": 555303,
+     "offset": 557048,
      "length": 146
     },
     {
      "path": "cnc/bits/nobuild1.aud",
-     "offset": 555449,
+     "offset": 557194,
      "length": 25628
     },
     {
      "path": "cnc/bits/nuyell10.aud",
-     "offset": 581077,
+     "offset": 582822,
      "length": 7096
     },
     {
      "path": "cnc/bits/nuyell11.aud",
-     "offset": 588173,
+     "offset": 589918,
      "length": 7685
     },
     {
      "path": "cnc/bits/nuyell12.aud",
-     "offset": 595858,
+     "offset": 597603,
      "length": 8819
     },
     {
      "path": "cnc/bits/nuyell6.aud",
-     "offset": 604677,
+     "offset": 606422,
      "length": 6648
     },
     {
      "path": "cnc/bits/nuyell7.aud",
-     "offset": 611325,
+     "offset": 613070,
      "length": 9477
     },
     {
      "path": "cnc/bits/pdigits.shp",
-     "offset": 620802,
+     "offset": 622547,
      "length": 605
     },
     {
      "path": "cnc/bits/pip-hazmat.shp",
-     "offset": 621407,
+     "offset": 623152,
      "length": 78
     },
     {
      "path": "cnc/bits/pip-heal.shp",
-     "offset": 621485,
+     "offset": 623230,
      "length": 96
     },
     {
      "path": "cnc/bits/pips.shp",
-     "offset": 621581,
+     "offset": 623326,
      "length": 186
     },
     {
      "path": "cnc/bits/poweroff.shp",
-     "offset": 621767,
+     "offset": 623512,
      "length": 653
     },
     {
      "path": "cnc/bits/proctwr.shp",
-     "offset": 622420,
+     "offset": 624165,
      "length": 281
     },
     {
      "path": "cnc/bits/pvice.shp",
-     "offset": 622701,
+     "offset": 624446,
      "length": 4102
     },
     {
      "path": "cnc/bits/pylemake.shp",
-     "offset": 626803,
+     "offset": 628548,
      "length": 8378
     },
     {
      "path": "cnc/bits/radarcrate.shp",
-     "offset": 635181,
+     "offset": 636926,
      "length": 4007
     },
     {
      "path": "cnc/bits/rank.shp",
-     "offset": 639188,
+     "offset": 640933,
      "length": 259
     },
     {
      "path": "cnc/bits/rapticnh.shp",
-     "offset": 639447,
+     "offset": 641192,
      "length": 2844
     },
     {
      "path": "cnc/bits/repair1.aud",
-     "offset": 642291,
+     "offset": 644036,
      "length": 17372
     },
     {
      "path": "cnc/bits/sandbag2.aud",
-     "offset": 659663,
+     "offset": 661408,
      "length": 8075
     },
     {
      "path": "cnc/bits/scrate.shp",
-     "offset": 667738,
+     "offset": 669483,
      "length": 354
     },
     {
      "path": "cnc/bits/silo.shp",
-     "offset": 668092,
+     "offset": 669837,
      "length": 2631
     },
     {
      "path": "cnc/bits/silomake.shp",
-     "offset": 670723,
+     "offset": 672468,
      "length": 5306
     },
     {
      "path": "cnc/bits/snow.mix",
-     "offset": 676029,
+     "offset": 677774,
      "length": 723952
     },
     {
      "path": "cnc/bits/snow.pal",
-     "offset": 1399981,
+     "offset": 1401726,
      "length": 768
     },
     {
      "path": "cnc/bits/stegicnh.shp",
-     "offset": 1400749,
+     "offset": 1402494,
      "length": 2759
     },
     {
      "path": "cnc/bits/tmplicnh.shp",
-     "offset": 1403508,
+     "offset": 1405253,
      "length": 2616
     },
     {
      "path": "cnc/bits/tone15.aud",
-     "offset": 1406124,
+     "offset": 1407869,
      "length": 669
     },
     {
      "path": "cnc/bits/tone16.aud",
-     "offset": 1406793,
+     "offset": 1408538,
      "length": 1508
     },
     {
      "path": "cnc/bits/toss1.aud",
-     "offset": 1408301,
+     "offset": 1410046,
      "length": 1980
     },
     {
      "path": "cnc/bits/trexicnh.shp",
-     "offset": 1410281,
+     "offset": 1412026,
      "length": 2322
     },
     {
      "path": "cnc/bits/tricicnh.shp",
-     "offset": 1412603,
+     "offset": 1414348,
      "length": 2763
     },
     {
      "path": "cnc/bits/truck.shp",
-     "offset": 1415366,
+     "offset": 1417111,
      "length": 9470
     },
     {
      "path": "cnc/bits/truckicon.shp",
-     "offset": 1424836,
+     "offset": 1426581,
      "length": 2854
     },
     {
      "path": "cnc/bits/tunnel1.tem",
-     "offset": 1427690,
+     "offset": 1429435,
      "length": 5020
     },
     {
      "path": "cnc/bits/tunnel2.tem",
-     "offset": 1432710,
+     "offset": 1434455,
      "length": 4990
     },
     {
      "path": "cnc/bits/tunnel3.tem",
-     "offset": 1437700,
+     "offset": 1439445,
      "length": 5137
     },
     {
      "path": "cnc/bits/tunnel4.tem",
-     "offset": 1442837,
+     "offset": 1444582,
      "length": 4800
     },
     {
      "path": "cnc/bits/viceicnh.shp",
-     "offset": 1447637,
+     "offset": 1449382,
      "length": 2415
     },
     {
      "path": "cnc/bits/wake.shp",
-     "offset": 1450052,
+     "offset": 1451797,
      "length": 1956
     },
     {
      "path": "cnc/bits/waypoint.shp",
-     "offset": 1452008,
+     "offset": 1453753,
      "length": 92
     },
     {
      "path": "cnc/bits/wcrate.shp",
-     "offset": 1452100,
+     "offset": 1453845,
      "length": 354
     },
     {
      "path": "cnc/bits/xcrate.shp",
-     "offset": 1452454,
+     "offset": 1454199,
      "length": 515
     },
     {
      "path": "cnc/bits/desert/b06.des",
-     "offset": 1452969,
+     "offset": 1454714,
      "length": 619
     },
     {
      "path": "cnc/bits/desert/br10.des",
-     "offset": 1453588,
+     "offset": 1455333,
      "length": 2356
     },
     {
      "path": "cnc/bits/desert/br5.des",
-     "offset": 1455944,
+     "offset": 1457689,
      "length": 3514
     },
     {
      "path": "cnc/bits/desert/cliffsl1.des",
-     "offset": 1459458,
+     "offset": 1461203,
      "length": 1153
     },
     {
      "path": "cnc/bits/desert/cliffsl2.des",
-     "offset": 1460611,
+     "offset": 1462356,
      "length": 1137
     },
     {
      "path": "cnc/bits/desert/cliffsl3.des",
-     "offset": 1461748,
+     "offset": 1463493,
      "length": 1196
     },
     {
      "path": "cnc/bits/desert/cliffsl4.des",
-     "offset": 1462944,
+     "offset": 1464689,
      "length": 1181
     },
     {
      "path": "cnc/bits/desert/p08.des",
-     "offset": 1464125,
+     "offset": 1465870,
      "length": 1198
     },
     {
      "path": "cnc/bits/desert/p09.des",
-     "offset": 1465323,
+     "offset": 1467068,
      "length": 1198
     },
     {
      "path": "cnc/bits/desert/p10.des",
-     "offset": 1466521,
+     "offset": 1468266,
      "length": 3514
     },
     {
      "path": "cnc/bits/ss/armorcrate.shp",
-     "offset": 1470035,
+     "offset": 1471780,
      "length": 5403
     },
     {
      "path": "cnc/bits/ss/armorup.aud",
-     "offset": 1475438,
+     "offset": 1477183,
      "length": 9067
     },
     {
      "path": "cnc/bits/ss/firepowercrate.shp",
-     "offset": 1484505,
+     "offset": 1486250,
      "length": 4039
     },
     {
      "path": "cnc/bits/ss/firepowerup.aud",
-     "offset": 1488544,
+     "offset": 1490289,
      "length": 5947
     },
     {
      "path": "cnc/bits/ss/rangeup.aud",
-     "offset": 1494491,
+     "offset": 1496236,
      "length": 14508
     },
     {
      "path": "cnc/bits/ss/rateoffireup.aud",
-     "offset": 1508999,
+     "offset": 1510744,
      "length": 6041
     },
     {
      "path": "cnc/bits/ss/speedcrate.shp",
-     "offset": 1515040,
+     "offset": 1516785,
      "length": 1619
     },
     {
      "path": "cnc/bits/ss/speedup.aud",
-     "offset": 1516659,
+     "offset": 1518404,
      "length": 33291
     },
     {
      "path": "cnc/chrome/assetbrowser.yaml",
-     "offset": 1549950,
+     "offset": 1551695,
      "length": 5104
     },
     {
      "path": "cnc/chrome/color-picker.yaml",
-     "offset": 1555054,
+     "offset": 1556799,
      "length": 2856
     },
     {
      "path": "cnc/chrome/connection.yaml",
-     "offset": 1557910,
+     "offset": 1559655,
      "length": 3413
     },
     {
      "path": "cnc/chrome/credits.yaml",
-     "offset": 1561323,
+     "offset": 1563068,
      "length": 1104
     },
     {
      "path": "cnc/chrome/dialogs.yaml",
-     "offset": 1562427,
+     "offset": 1564172,
      "length": 6329
     },
     {
      "path": "cnc/chrome/editor.yaml",
-     "offset": 1568756,
+     "offset": 1570501,
      "length": 26576
     },
     {
      "path": "cnc/chrome/encyclopedia.yaml",
-     "offset": 1595332,
+     "offset": 1597077,
      "length": 3404
     },
     {
      "path": "cnc/chrome/gamesave-browser.yaml",
-     "offset": 1598736,
+     "offset": 1600481,
      "length": 4954
     },
     {
      "path": "cnc/chrome/gamesave-loading.yaml",
-     "offset": 1603690,
+     "offset": 1605435,
      "length": 1195
     },
     {
      "path": "cnc/chrome/ingame-chat.yaml",
-     "offset": 1604885,
+     "offset": 1606630,
      "length": 1672
     },
     {
      "path": "cnc/chrome/ingame-debug.yaml",
-     "offset": 1606557,
+     "offset": 1608302,
      "length": 8127
     },
     {
      "path": "cnc/chrome/ingame-debuginfo.yaml",
-     "offset": 1614684,
+     "offset": 1616429,
      "length": 230
     },
     {
      "path": "cnc/chrome/ingame-info-lobby-options.yaml",
-     "offset": 1614914,
+     "offset": 1616659,
      "length": 1630
     },
     {
      "path": "cnc/chrome/ingame-info.yaml",
-     "offset": 1616544,
+     "offset": 1618289,
      "length": 2069
     },
     {
      "path": "cnc/chrome/ingame-infobriefing.yaml",
-     "offset": 1618613,
+     "offset": 1620358,
      "length": 616
     },
     {
      "path": "cnc/chrome/ingame-infochat.yaml",
-     "offset": 1619229,
+     "offset": 1620974,
      "length": 830
     },
     {
      "path": "cnc/chrome/ingame-infoobjectives.yaml",
-     "offset": 1620059,
+     "offset": 1621804,
      "length": 887
     },
     {
      "path": "cnc/chrome/ingame-infostats.yaml",
-     "offset": 1620946,
+     "offset": 1622691,
      "length": 4044
     },
     {
      "path": "cnc/chrome/ingame-menu.yaml",
-     "offset": 1624990,
+     "offset": 1626735,
      "length": 852
     },
     {
      "path": "cnc/chrome/ingame.yaml",
-     "offset": 1625842,
+     "offset": 1627587,
      "length": 50092
     },
     {
      "path": "cnc/chrome/load-game-browser.yaml",
-     "offset": 1675934,
+     "offset": 1677679,
      "length": 7083
     },
     {
      "path": "cnc/chrome/lobby-kickdialogs.yaml",
-     "offset": 1683017,
+     "offset": 1684762,
      "length": 2813
     },
     {
      "path": "cnc/chrome/lobby-mappreview.yaml",
-     "offset": 1685830,
+     "offset": 1687575,
      "length": 5319
     },
     {
      "path": "cnc/chrome/lobby-music.yaml",
-     "offset": 1691149,
+     "offset": 1692894,
      "length": 4042
     },
     {
      "path": "cnc/chrome/lobby-options.yaml",
-     "offset": 1695191,
+     "offset": 1696936,
      "length": 2344
     },
     {
      "path": "cnc/chrome/lobby-players.yaml",
-     "offset": 1697535,
+     "offset": 1699280,
      "length": 10852
     },
     {
      "path": "cnc/chrome/lobby-servers.yaml",
-     "offset": 1708387,
+     "offset": 1710132,
      "length": 4592
     },
     {
      "path": "cnc/chrome/lobby.yaml",
-     "offset": 1712979,
+     "offset": 1714724,
      "length": 3290
     },
     {
      "path": "cnc/chrome/mainmenu-prompts.yaml",
-     "offset": 1716269,
+     "offset": 1718014,
      "length": 13053
     },
     {
      "path": "cnc/chrome/mainmenu.yaml",
-     "offset": 1729322,
+     "offset": 1731067,
      "length": 6103
     },
     {
      "path": "cnc/chrome/mapchooser.yaml",
-     "offset": 1735425,
+     "offset": 1737170,
      "length": 6532
     },
     {
      "path": "cnc/chrome/missionbrowser.yaml",
-     "offset": 1741957,
+     "offset": 1743702,
      "length": 6850
     },
     {
      "path": "cnc/chrome/multiplayer-browser.yaml",
-     "offset": 1748807,
+     "offset": 1750552,
      "length": 6137
     },
     {
      "path": "cnc/chrome/multiplayer-browserpanels.yaml",
-     "offset": 1754944,
+     "offset": 1756689,
      "length": 1741
     },
     {
      "path": "cnc/chrome/multiplayer-createserver.yaml",
-     "offset": 1756685,
+     "offset": 1758430,
      "length": 4873
     },
     {
      "path": "cnc/chrome/multiplayer-directconnect.yaml",
-     "offset": 1761558,
+     "offset": 1763303,
      "length": 1057
     },
     {
      "path": "cnc/chrome/music.yaml",
-     "offset": 1762615,
+     "offset": 1764360,
      "length": 4413
     },
     {
      "path": "cnc/chrome/playerprofile.yaml",
-     "offset": 1767028,
+     "offset": 1768773,
      "length": 2805
     },
     {
      "path": "cnc/chrome/replaybrowser.yaml",
-     "offset": 1769833,
+     "offset": 1771578,
      "length": 6727
     },
     {
      "path": "cnc/chrome/settings-advanced.yaml",
-     "offset": 1776560,
+     "offset": 1778305,
      "length": 5740
     },
     {
      "path": "cnc/chrome/settings-audio.yaml",
-     "offset": 1782300,
+     "offset": 1784045,
      "length": 3921
     },
     {
      "path": "cnc/chrome/settings-display.yaml",
-     "offset": 1786221,
+     "offset": 1787966,
      "length": 8390
     },
     {
      "path": "cnc/chrome/settings-gameplay.yaml",
-     "offset": 1794611,
+     "offset": 1796356,
      "length": 5749
     },
     {
      "path": "cnc/chrome/settings-hotkeys.yaml",
-     "offset": 1800360,
+     "offset": 1802105,
      "length": 4165
     },
     {
      "path": "cnc/chrome/settings-input.yaml",
-     "offset": 1804525,
+     "offset": 1806270,
      "length": 10544
     },
     {
      "path": "cnc/chrome/settings.yaml",
-     "offset": 1815069,
+     "offset": 1816814,
      "length": 1211
     },
     {
      "path": "cnc/chrome/tooltips.yaml",
-     "offset": 1816280,
+     "offset": 1818025,
      "length": 8720
     },
     {
      "path": "cnc/fluent/campaign.ftl",
-     "offset": 1825000,
+     "offset": 1826745,
      "length": 656
     },
     {
      "path": "cnc/fluent/chrome.ftl",
-     "offset": 1825656,
+     "offset": 1827401,
      "length": 34552
     },
     {
      "path": "cnc/fluent/cnc.ftl",
-     "offset": 1860208,
+     "offset": 1861953,
      "length": 248
     },
     {
      "path": "cnc/fluent/hotkeys.ftl",
-     "offset": 1860456,
+     "offset": 1862201,
      "length": 409
     },
     {
      "path": "cnc/fluent/lua.ftl",
-     "offset": 1860865,
+     "offset": 1862610,
      "length": 5699
     },
     {
      "path": "cnc/fluent/rules.ftl",
-     "offset": 1866564,
+     "offset": 1868309,
      "length": 35109
     },
     {
      "path": "cnc/maps/16-9.oramap",
-     "offset": 1901673,
+     "offset": 1903418,
      "length": 6935
     },
     {
      "path": "cnc/maps/a-new-winter.oramap",
-     "offset": 1908608,
+     "offset": 1910353,
      "length": 10406
     },
     {
      "path": "cnc/maps/african-gambit.oramap",
-     "offset": 1919014,
+     "offset": 1920759,
      "length": 13703
     },
     {
      "path": "cnc/maps/aggressive-tendencies.oramap",
-     "offset": 1932717,
+     "offset": 1934462,
      "length": 6089
     },
     {
      "path": "cnc/maps/alpha-juno-5.oramap",
-     "offset": 1938806,
+     "offset": 1940551,
      "length": 18178
     },
     {
      "path": "cnc/maps/antrax.oramap",
-     "offset": 1956984,
+     "offset": 1958729,
      "length": 10940
     },
     {
      "path": "cnc/maps/anvil-of-war.oramap",
-     "offset": 1967924,
+     "offset": 1969669,
      "length": 18649
     },
     {
      "path": "cnc/maps/arcade.oramap",
-     "offset": 1986573,
+     "offset": 1988318,
      "length": 7991
     },
     {
      "path": "cnc/maps/armageddon.oramap",
-     "offset": 1994564,
+     "offset": 1996309,
      "length": 20997
     },
     {
      "path": "cnc/maps/axis-of-advance.oramap",
-     "offset": 2015561,
+     "offset": 2017306,
      "length": 13327
     },
     {
      "path": "cnc/maps/back-to-basics.oramap",
-     "offset": 2028888,
+     "offset": 2030633,
      "length": 12007
     },
     {
      "path": "cnc/maps/badland-ridges.oramap",
-     "offset": 2040895,
+     "offset": 2042640,
      "length": 13721
     },
     {
      "path": "cnc/maps/blood-and-sand.oramap",
-     "offset": 2054616,
+     "offset": 2056361,
      "length": 24168
     },
     {
      "path": "cnc/maps/blue-mountains.oramap",
-     "offset": 2078784,
+     "offset": 2080529,
      "length": 9665
     },
     {
      "path": "cnc/maps/blue-winter-1995.oramap",
-     "offset": 2088449,
+     "offset": 2090194,
      "length": 10416
     },
     {
      "path": "cnc/maps/break-of-day.oramap",
-     "offset": 2098865,
+     "offset": 2100610,
      "length": 13639
     },
     {
      "path": "cnc/maps/burning-hammer.oramap",
-     "offset": 2112504,
+     "offset": 2114249,
      "length": 13536
     },
     {
      "path": "cnc/maps/carters-ridge.oramap",
-     "offset": 2126040,
+     "offset": 2127785,
      "length": 8470
     },
     {
      "path": "cnc/maps/chill-out.oramap",
-     "offset": 2134510,
+     "offset": 2136255,
      "length": 14330
     },
     {
      "path": "cnc/maps/chokepoint.oramap",
-     "offset": 2148840,
+     "offset": 2150585,
      "length": 3801
     },
     {
      "path": "cnc/maps/collateral-chaos.oramap",
-     "offset": 2152641,
+     "offset": 2154386,
      "length": 13219
     },
     {
      "path": "cnc/maps/control-and-chaos.oramap",
-     "offset": 2165860,
+     "offset": 2167605,
      "length": 14432
     },
     {
      "path": "cnc/maps/crackpoint.oramap",
-     "offset": 2180292,
+     "offset": 2182037,
      "length": 11983
     },
     {
      "path": "cnc/maps/crossing-the-divide.oramap",
-     "offset": 2192275,
+     "offset": 2194020,
      "length": 21718
     },
     {
      "path": "cnc/maps/dead_in_motion_v4.Symm.oramap",
-     "offset": 2213993,
+     "offset": 2215738,
      "length": 5767
     },
     {
      "path": "cnc/maps/desert-3-wayz.oramap",
-     "offset": 2219760,
+     "offset": 2221505,
      "length": 21688
     },
     {
      "path": "cnc/maps/desert-invasion.oramap",
-     "offset": 2241448,
+     "offset": 2243193,
      "length": 13069
     },
     {
      "path": "cnc/maps/desert-mandarins.oramap",
-     "offset": 2254517,
+     "offset": 2256262,
      "length": 10432
     },
     {
      "path": "cnc/maps/desert-storm-3.oramap",
-     "offset": 2264949,
+     "offset": 2266694,
      "length": 9304
     },
     {
      "path": "cnc/maps/deserted-outpost.oramap",
-     "offset": 2274253,
+     "offset": 2275998,
      "length": 14787
     },
     {
      "path": "cnc/maps/deterring-democracy-plus.oramap",
-     "offset": 2289040,
+     "offset": 2290785,
      "length": 8650
     },
     {
      "path": "cnc/maps/deterring-democracy.oramap",
-     "offset": 2297690,
+     "offset": 2299435,
      "length": 6629
     },
     {
      "path": "cnc/maps/dualism.oramap",
-     "offset": 2304319,
+     "offset": 2306064,
      "length": 7538
     },
     {
      "path": "cnc/maps/east-vs-west-3.oramap",
-     "offset": 2311857,
+     "offset": 2313602,
      "length": 4167
     },
     {
      "path": "cnc/maps/elysian-expanse.oramap",
-     "offset": 2316024,
+     "offset": 2317769,
      "length": 22905
     },
     {
      "path": "cnc/maps/escalations.oramap",
-     "offset": 2338929,
+     "offset": 2340674,
      "length": 9024
     },
     {
      "path": "cnc/maps/fight-win-prevail.oramap",
-     "offset": 2347953,
+     "offset": 2349698,
      "length": 12406
     },
     {
      "path": "cnc/maps/fortresses-II-remastered.oramap",
-     "offset": 2360359,
+     "offset": 2362104,
      "length": 17301
     },
     {
      "path": "cnc/maps/frigid-pass.oramap",
-     "offset": 2377660,
+     "offset": 2379405,
      "length": 8638
     },
     {
      "path": "cnc/maps/haos-ridges-cnc.oramap",
-     "offset": 2386298,
+     "offset": 2388043,
      "length": 8258
     },
     {
      "path": "cnc/maps/hattrix.oramap",
-     "offset": 2394556,
+     "offset": 2396301,
      "length": 6621
     },
     {
      "path": "cnc/maps/hegemony-or-survival.oramap",
-     "offset": 2401177,
+     "offset": 2402922,
      "length": 19116
     },
     {
      "path": "cnc/maps/heroic-warriors.oramap",
-     "offset": 2420293,
+     "offset": 2422038,
      "length": 14182
     },
     {
      "path": "cnc/maps/island-duel.oramap",
-     "offset": 2434475,
+     "offset": 2436220,
      "length": 8031
     },
     {
      "path": "cnc/maps/kanes-revenge.oramap",
-     "offset": 2442506,
+     "offset": 2444251,
      "length": 13249
     },
     {
      "path": "cnc/maps/kolosseum.oramap",
-     "offset": 2455755,
+     "offset": 2457500,
      "length": 20022
     },
     {
      "path": "cnc/maps/lockdown.oramap",
-     "offset": 2475777,
+     "offset": 2477522,
      "length": 20641
     },
     {
      "path": "cnc/maps/manufacturing-consent.oramap",
-     "offset": 2496418,
+     "offset": 2498163,
      "length": 10671
     },
     {
      "path": "cnc/maps/master-alert.oramap",
-     "offset": 2507089,
+     "offset": 2508834,
      "length": 16729
     },
     {
      "path": "cnc/maps/matchpoint.oramap",
-     "offset": 2523818,
+     "offset": 2525563,
      "length": 12364
     },
     {
      "path": "cnc/maps/megaoutdoortrails-7v7.oramap",
-     "offset": 2536182,
+     "offset": 2537927,
      "length": 36858
     },
     {
      "path": "cnc/maps/model-200.oramap",
-     "offset": 2573040,
+     "offset": 2574785,
      "length": 8562
     },
     {
      "path": "cnc/maps/morbid-aimless-poseidon.oramap",
-     "offset": 2581602,
+     "offset": 2583347,
      "length": 17597
     },
     {
      "path": "cnc/maps/mountain-town-madness.oramap",
-     "offset": 2599199,
+     "offset": 2600944,
      "length": 16293
     },
     {
      "path": "cnc/maps/mt-nukebait.oramap",
-     "offset": 2615492,
+     "offset": 2617237,
      "length": 6845
     },
     {
      "path": "cnc/maps/order-of-battle.oramap",
-     "offset": 2622337,
+     "offset": 2624082,
      "length": 18694
     },
     {
      "path": "cnc/maps/ping-pong-bay.oramap",
-     "offset": 2641031,
+     "offset": 2642776,
      "length": 9070
     },
     {
      "path": "cnc/maps/pirates-and-emperors.oramap",
-     "offset": 2650101,
+     "offset": 2651846,
      "length": 16029
     },
     {
      "path": "cnc/maps/pressure-cnc.oramap",
-     "offset": 2666130,
+     "offset": 2667875,
      "length": 12659
     },
     {
      "path": "cnc/maps/reaching-out.oramap",
-     "offset": 2678789,
+     "offset": 2680534,
      "length": 8627
     },
     {
      "path": "cnc/maps/renegades.oramap",
-     "offset": 2687416,
+     "offset": 2689161,
      "length": 21726
     },
     {
      "path": "cnc/maps/riverside-frontline.oramap",
-     "offset": 2709142,
+     "offset": 2710887,
      "length": 13983
     },
     {
      "path": "cnc/maps/scorched-earth.oramap",
-     "offset": 2723125,
+     "offset": 2724870,
      "length": 17965
     },
     {
      "path": "cnc/maps/sustain.oramap",
-     "offset": 2741090,
+     "offset": 2742835,
      "length": 8313
     },
     {
      "path": "cnc/maps/tactical-advance.oramap",
-     "offset": 2749403,
+     "offset": 2751148,
      "length": 20182
     },
     {
      "path": "cnc/maps/tiberium-forest.oramap",
-     "offset": 2769585,
+     "offset": 2771330,
      "length": 20547
     },
     {
      "path": "cnc/maps/tiberium-garden-2.oramap",
-     "offset": 2790132,
+     "offset": 2791877,
      "length": 7984
     },
     {
      "path": "cnc/maps/tiberium-rift.oramap",
-     "offset": 2798116,
+     "offset": 2799861,
      "length": 8474
     },
     {
      "path": "cnc/maps/too-hot.oramap",
-     "offset": 2806590,
+     "offset": 2808335,
      "length": 8269
     },
     {
      "path": "cnc/maps/trial-of-possession.oramap",
-     "offset": 2814859,
+     "offset": 2816604,
      "length": 23193
     },
     {
      "path": "cnc/maps/triarchs-axiom.oramap",
-     "offset": 2838052,
+     "offset": 2839797,
      "length": 23638
     },
     {
      "path": "cnc/maps/twin-lakes.oramap",
-     "offset": 2861690,
+     "offset": 2863435,
      "length": 21245
     },
     {
      "path": "cnc/maps/two-ponds.oramap",
-     "offset": 2882935,
+     "offset": 2884680,
      "length": 8104
     },
     {
      "path": "cnc/maps/valley-of-gold-6p.oramap",
-     "offset": 2891039,
+     "offset": 2892784,
      "length": 15660
     },
     {
      "path": "cnc/maps/valley-of-gold-6v6.oramap",
-     "offset": 2906699,
+     "offset": 2908444,
      "length": 19337
     },
     {
      "path": "cnc/maps/valley-of-gold.oramap",
-     "offset": 2926036,
+     "offset": 2927781,
      "length": 18358
     },
     {
      "path": "cnc/maps/vectors-of-battle.oramap",
-     "offset": 2944394,
+     "offset": 2946139,
      "length": 12525
     },
     {
      "path": "cnc/maps/war-zone-x.oramap",
-     "offset": 2956919,
+     "offset": 2958664,
      "length": 11419
     },
     {
      "path": "cnc/maps/warchild.oramap",
-     "offset": 2968338,
+     "offset": 2970083,
      "length": 27002
     },
     {
      "path": "cnc/maps/warkraft.oramap",
-     "offset": 2995340,
+     "offset": 2997085,
      "length": 12258
     },
     {
      "path": "cnc/maps/x896.oramap",
-     "offset": 3007598,
+     "offset": 3009343,
      "length": 7103
     },
     {
      "path": "cnc/maps/year-501.oramap",
-     "offset": 3014701,
+     "offset": 3016446,
      "length": 16756
     },
     {
      "path": "cnc/maps/blank-shellmap/map.bin",
-     "offset": 3031457,
+     "offset": 3033202,
      "length": 142
     },
     {
      "path": "cnc/maps/blank-shellmap/map.png",
-     "offset": 3031599,
+     "offset": 3033344,
      "length": 69
     },
     {
      "path": "cnc/maps/blank-shellmap/map.yaml",
-     "offset": 3031668,
+     "offset": 3033413,
      "length": 1534
     },
     {
      "path": "cnc/maps/cnc64gdi01/cnc64gdi01.lua",
-     "offset": 3033202,
+     "offset": 3034947,
      "length": 4231
     },
     {
      "path": "cnc/maps/cnc64gdi01/map.bin",
-     "offset": 3037433,
+     "offset": 3039178,
      "length": 20497
     },
     {
      "path": "cnc/maps/cnc64gdi01/map.ftl",
-     "offset": 3057930,
+     "offset": 3059675,
      "length": 331
     },
     {
      "path": "cnc/maps/cnc64gdi01/map.png",
-     "offset": 3058261,
+     "offset": 3060006,
      "length": 11559
     },
     {
      "path": "cnc/maps/cnc64gdi01/map.yaml",
-     "offset": 3069820,
+     "offset": 3071565,
      "length": 11434
     },
     {
      "path": "cnc/maps/cnc64gdi01/rules.yaml",
-     "offset": 3081254,
+     "offset": 3082999,
      "length": 536
     },
     {
      "path": "cnc/maps/desert-rats-cnc/map.bin",
-     "offset": 3081790,
+     "offset": 3083535,
      "length": 25937
     },
     {
      "path": "cnc/maps/desert-rats-cnc/map.png",
-     "offset": 3107727,
+     "offset": 3109472,
      "length": 920
     },
     {
      "path": "cnc/maps/desert-rats-cnc/map.yaml",
-     "offset": 3108647,
+     "offset": 3110392,
      "length": 8698
     },
     {
      "path": "cnc/maps/desert-rats-cnc/rules.yaml",
-     "offset": 3117345,
+     "offset": 3119090,
      "length": 86
     },
     {
      "path": "cnc/maps/eviction-notice/eviction-notice-AI.lua",
-     "offset": 3117431,
+     "offset": 3119176,
      "length": 12920
     },
     {
      "path": "cnc/maps/eviction-notice/eviction-notice.lua",
-     "offset": 3130351,
+     "offset": 3132096,
      "length": 11119
     },
     {
      "path": "cnc/maps/eviction-notice/map.bin",
-     "offset": 3141470,
+     "offset": 3143215,
      "length": 20497
     },
     {
      "path": "cnc/maps/eviction-notice/map.ftl",
-     "offset": 3161967,
+     "offset": 3163712,
      "length": 251
     },
     {
      "path": "cnc/maps/eviction-notice/map.png",
-     "offset": 3162218,
+     "offset": 3163963,
      "length": 5943
     },
     {
      "path": "cnc/maps/eviction-notice/map.yaml",
-     "offset": 3168161,
+     "offset": 3169906,
      "length": 10642
     },
     {
      "path": "cnc/maps/eviction-notice/rules.yaml",
-     "offset": 3178803,
+     "offset": 3180548,
      "length": 2120
     },
     {
      "path": "cnc/maps/eviction-notice/weapons.yaml",
-     "offset": 3180923,
+     "offset": 3182668,
      "length": 74
     },
     {
      "path": "cnc/maps/funpark01/map.bin",
-     "offset": 3180997,
+     "offset": 3182742,
      "length": 20497
     },
     {
      "path": "cnc/maps/funpark01/map.ftl",
-     "offset": 3201494,
+     "offset": 3203239,
      "length": 165
     },
     {
      "path": "cnc/maps/funpark01/map.png",
-     "offset": 3201659,
+     "offset": 3203404,
      "length": 26207
     },
     {
      "path": "cnc/maps/funpark01/map.yaml",
-     "offset": 3227866,
+     "offset": 3229611,
      "length": 6941
     },
     {
      "path": "cnc/maps/funpark01/rules.yaml",
-     "offset": 3234807,
+     "offset": 3236552,
      "length": 1170
     },
     {
      "path": "cnc/maps/funpark01/scj01ea.lua",
-     "offset": 3235977,
+     "offset": 3237722,
      "length": 2472
     },
     {
      "path": "cnc/maps/funpark01/weapons.yaml",
-     "offset": 3238449,
+     "offset": 3240194,
      "length": 71
     },
     {
      "path": "cnc/maps/gdi01/gdi01.lua",
-     "offset": 3238520,
+     "offset": 3240265,
      "length": 2085
     },
     {
      "path": "cnc/maps/gdi01/map.bin",
-     "offset": 3240605,
+     "offset": 3242350,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi01/map.ftl",
-     "offset": 3261102,
+     "offset": 3262847,
      "length": 381
     },
     {
      "path": "cnc/maps/gdi01/map.png",
-     "offset": 3261483,
+     "offset": 3263228,
      "length": 47559
     },
     {
      "path": "cnc/maps/gdi01/map.yaml",
-     "offset": 3309042,
+     "offset": 3310787,
      "length": 3833
     },
     {
      "path": "cnc/maps/gdi01/rules.yaml",
-     "offset": 3312875,
+     "offset": 3314620,
      "length": 1391
     },
     {
      "path": "cnc/maps/gdi01/weapons.yaml",
-     "offset": 3314266,
+     "offset": 3316011,
      "length": 223
     },
     {
      "path": "cnc/maps/gdi02/gdi02.lua",
-     "offset": 3314489,
+     "offset": 3316234,
      "length": 2145
     },
     {
      "path": "cnc/maps/gdi02/map.bin",
-     "offset": 3316634,
+     "offset": 3318379,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi02/map.ftl",
-     "offset": 3337131,
+     "offset": 3338876,
      "length": 254
     },
     {
      "path": "cnc/maps/gdi02/map.png",
-     "offset": 3337385,
+     "offset": 3339130,
      "length": 47541
     },
     {
      "path": "cnc/maps/gdi02/map.yaml",
-     "offset": 3384926,
+     "offset": 3386671,
      "length": 9728
     },
     {
      "path": "cnc/maps/gdi02/rules.yaml",
-     "offset": 3394654,
+     "offset": 3396399,
      "length": 1397
     },
     {
      "path": "cnc/maps/gdi03/gdi03.lua",
-     "offset": 3396051,
+     "offset": 3397796,
      "length": 2865
     },
     {
      "path": "cnc/maps/gdi03/map.bin",
-     "offset": 3398916,
+     "offset": 3400661,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi03/map.ftl",
-     "offset": 3419413,
+     "offset": 3421158,
      "length": 255
     },
     {
      "path": "cnc/maps/gdi03/map.png",
-     "offset": 3419668,
+     "offset": 3421413,
      "length": 47451
     },
     {
      "path": "cnc/maps/gdi03/map.yaml",
-     "offset": 3467119,
+     "offset": 3468864,
      "length": 11172
     },
     {
      "path": "cnc/maps/gdi03/rules.yaml",
-     "offset": 3478291,
+     "offset": 3480036,
      "length": 1257
     },
     {
      "path": "cnc/maps/gdi04a/gdi04a.lua",
-     "offset": 3479548,
+     "offset": 3481293,
      "length": 4563
     },
     {
      "path": "cnc/maps/gdi04a/map.bin",
-     "offset": 3484111,
+     "offset": 3485856,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi04a/map.ftl",
-     "offset": 3504608,
+     "offset": 3506353,
      "length": 267
     },
     {
      "path": "cnc/maps/gdi04a/map.png",
-     "offset": 3504875,
+     "offset": 3506620,
      "length": 46712
     },
     {
      "path": "cnc/maps/gdi04a/map.yaml",
-     "offset": 3551587,
+     "offset": 3553332,
      "length": 7131
     },
     {
      "path": "cnc/maps/gdi04a/rules.yaml",
-     "offset": 3558718,
+     "offset": 3560463,
      "length": 323
     },
     {
      "path": "cnc/maps/gdi04b/gdi04b.lua",
-     "offset": 3559041,
+     "offset": 3560786,
      "length": 5344
     },
     {
      "path": "cnc/maps/gdi04b/map.bin",
-     "offset": 3564385,
+     "offset": 3566130,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi04b/map.ftl",
-     "offset": 3584882,
+     "offset": 3586627,
      "length": 267
     },
     {
      "path": "cnc/maps/gdi04b/map.png",
-     "offset": 3585149,
+     "offset": 3586894,
      "length": 46712
     },
     {
      "path": "cnc/maps/gdi04b/map.yaml",
-     "offset": 3631861,
+     "offset": 3633606,
      "length": 8376
     },
     {
      "path": "cnc/maps/gdi04b/rules.yaml",
-     "offset": 3640237,
+     "offset": 3641982,
      "length": 357
     },
     {
      "path": "cnc/maps/gdi04c/gdi04c.lua",
-     "offset": 3640594,
+     "offset": 3642339,
      "length": 3847
     },
     {
      "path": "cnc/maps/gdi04c/map.bin",
-     "offset": 3644441,
+     "offset": 3646186,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi04c/map.ftl",
-     "offset": 3664938,
+     "offset": 3666683,
      "length": 245
     },
     {
      "path": "cnc/maps/gdi04c/map.png",
-     "offset": 3665183,
+     "offset": 3666928,
      "length": 46700
     },
     {
      "path": "cnc/maps/gdi04c/map.yaml",
-     "offset": 3711883,
+     "offset": 3713628,
      "length": 12266
     },
     {
      "path": "cnc/maps/gdi04c/rules.yaml",
-     "offset": 3724149,
+     "offset": 3725894,
      "length": 942
     },
     {
      "path": "cnc/maps/gdi04c/weapons.yaml",
-     "offset": 3725091,
+     "offset": 3726836,
      "length": 105
     },
     {
      "path": "cnc/maps/gdi05a/gdi05a.lua",
-     "offset": 3725196,
+     "offset": 3726941,
      "length": 5968
     },
     {
      "path": "cnc/maps/gdi05a/map.bin",
-     "offset": 3731164,
+     "offset": 3732909,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi05a/map.ftl",
-     "offset": 3751661,
+     "offset": 3753406,
      "length": 294
     },
     {
      "path": "cnc/maps/gdi05a/map.png",
-     "offset": 3751955,
+     "offset": 3753700,
      "length": 39288
     },
     {
      "path": "cnc/maps/gdi05a/map.yaml",
-     "offset": 3791243,
+     "offset": 3792988,
      "length": 12217
     },
     {
      "path": "cnc/maps/gdi05a/rules.yaml",
-     "offset": 3803460,
+     "offset": 3805205,
      "length": 2531
     },
     {
      "path": "cnc/maps/gdi05b/gdi05b.lua",
-     "offset": 3805991,
+     "offset": 3807736,
      "length": 6886
     },
     {
      "path": "cnc/maps/gdi05b/map.bin",
-     "offset": 3812877,
+     "offset": 3814622,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi05b/map.ftl",
-     "offset": 3833374,
+     "offset": 3835119,
      "length": 294
     },
     {
      "path": "cnc/maps/gdi05b/map.png",
-     "offset": 3833668,
+     "offset": 3835413,
      "length": 39067
     },
     {
      "path": "cnc/maps/gdi05b/map.yaml",
-     "offset": 3872735,
+     "offset": 3874480,
      "length": 9841
     },
     {
      "path": "cnc/maps/gdi05b/rules.yaml",
-     "offset": 3882576,
+     "offset": 3884321,
      "length": 2014
     },
     {
      "path": "cnc/maps/gdi05c/gdi05c.lua",
-     "offset": 3884590,
+     "offset": 3886335,
      "length": 7373
     },
     {
      "path": "cnc/maps/gdi05c/map.bin",
-     "offset": 3891963,
+     "offset": 3893708,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi05c/map.ftl",
-     "offset": 3912460,
+     "offset": 3914205,
      "length": 294
     },
     {
      "path": "cnc/maps/gdi05c/map.png",
-     "offset": 3912754,
+     "offset": 3914499,
      "length": 47815
     },
     {
      "path": "cnc/maps/gdi05c/map.yaml",
-     "offset": 3960569,
+     "offset": 3962314,
      "length": 12223
     },
     {
      "path": "cnc/maps/gdi05c/rules.yaml",
-     "offset": 3972792,
+     "offset": 3974537,
      "length": 2604
     },
     {
      "path": "cnc/maps/gdi06/gdi06.lua",
-     "offset": 3975396,
+     "offset": 3977141,
      "length": 4952
     },
     {
      "path": "cnc/maps/gdi06/map.bin",
-     "offset": 3980348,
+     "offset": 3982093,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi06/map.ftl",
-     "offset": 4000845,
+     "offset": 4002590,
      "length": 167
     },
     {
      "path": "cnc/maps/gdi06/map.png",
-     "offset": 4001012,
+     "offset": 4002757,
      "length": 40137
     },
     {
      "path": "cnc/maps/gdi06/map.yaml",
-     "offset": 4041149,
+     "offset": 4042894,
      "length": 16282
     },
     {
      "path": "cnc/maps/gdi06/music.yaml",
-     "offset": 4057431,
+     "offset": 4059176,
      "length": 42
     },
     {
      "path": "cnc/maps/gdi06/rain-ambient.aud",
-     "offset": 4057473,
+     "offset": 4059218,
      "length": 151243
     },
     {
      "path": "cnc/maps/gdi06/rules.yaml",
-     "offset": 4208716,
+     "offset": 4210461,
      "length": 1727
     },
     {
      "path": "cnc/maps/gdi07/gdi07.lua",
-     "offset": 4210443,
+     "offset": 4212188,
      "length": 5116
     },
     {
      "path": "cnc/maps/gdi07/map.bin",
-     "offset": 4215559,
+     "offset": 4217304,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi07/map.ftl",
-     "offset": 4236056,
+     "offset": 4237801,
      "length": 244
     },
     {
      "path": "cnc/maps/gdi07/map.png",
-     "offset": 4236300,
+     "offset": 4238045,
      "length": 40304
     },
     {
      "path": "cnc/maps/gdi07/map.yaml",
-     "offset": 4276604,
+     "offset": 4278349,
      "length": 16488
     },
     {
      "path": "cnc/maps/gdi07/rules.yaml",
-     "offset": 4293092,
+     "offset": 4294837,
      "length": 1425
     },
     {
      "path": "cnc/maps/gdi08a/gdi08a-AI.lua",
-     "offset": 4294517,
+     "offset": 4296262,
      "length": 5878
     },
     {
      "path": "cnc/maps/gdi08a/gdi08a.lua",
-     "offset": 4300395,
+     "offset": 4302140,
      "length": 5432
     },
     {
      "path": "cnc/maps/gdi08a/map.bin",
-     "offset": 4305827,
+     "offset": 4307572,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi08a/map.ftl",
-     "offset": 4326324,
+     "offset": 4328069,
      "length": 304
     },
     {
      "path": "cnc/maps/gdi08a/map.png",
-     "offset": 4326628,
+     "offset": 4328373,
      "length": 40464
     },
     {
      "path": "cnc/maps/gdi08a/map.yaml",
-     "offset": 4367092,
+     "offset": 4368837,
      "length": 14130
     },
     {
      "path": "cnc/maps/gdi08a/rules.yaml",
-     "offset": 4381222,
+     "offset": 4382967,
      "length": 1981
     },
     {
      "path": "cnc/maps/gdi08b/gdi08b-AI.lua",
-     "offset": 4383203,
+     "offset": 4384948,
      "length": 9463
     },
     {
      "path": "cnc/maps/gdi08b/gdi08b.lua",
-     "offset": 4392666,
+     "offset": 4394411,
      "length": 7792
     },
     {
      "path": "cnc/maps/gdi08b/map.bin",
-     "offset": 4400458,
+     "offset": 4402203,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi08b/map.ftl",
-     "offset": 4420955,
+     "offset": 4422700,
      "length": 238
     },
     {
      "path": "cnc/maps/gdi08b/map.png",
-     "offset": 4421193,
+     "offset": 4422938,
      "length": 40656
     },
     {
      "path": "cnc/maps/gdi08b/map.yaml",
-     "offset": 4461849,
+     "offset": 4463594,
      "length": 16810
     },
     {
      "path": "cnc/maps/gdi08b/rules.yaml",
-     "offset": 4478659,
+     "offset": 4480404,
      "length": 2684
     },
     {
      "path": "cnc/maps/gdi09/gdi09-AI.lua",
-     "offset": 4481343,
+     "offset": 4483088,
      "length": 6270
     },
     {
      "path": "cnc/maps/gdi09/gdi09.lua",
-     "offset": 4487613,
+     "offset": 4489358,
      "length": 6738
     },
     {
      "path": "cnc/maps/gdi09/map.bin",
-     "offset": 4494351,
+     "offset": 4496096,
      "length": 20497
     },
     {
      "path": "cnc/maps/gdi09/map.ftl",
-     "offset": 4514848,
+     "offset": 4516593,
      "length": 321
     },
     {
      "path": "cnc/maps/gdi09/map.png",
-     "offset": 4515169,
+     "offset": 4516914,
      "length": 40108
     },
     {
      "path": "cnc/maps/gdi09/map.yaml",
-     "offset": 4555277,
+     "offset": 4557022,
      "length": 12722
     },
     {
      "path": "cnc/maps/gdi09/rules.yaml",
-     "offset": 4567999,
+     "offset": 4569744,
      "length": 1874
     },
     {
      "path": "cnc/maps/gdi09/weapons.yaml",
-     "offset": 4569873,
+     "offset": 4571618,
      "length": 223
     },
     {
      "path": "cnc/maps/nod01/map.bin",
-     "offset": 4570096,
+     "offset": 4571841,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod01/map.ftl",
-     "offset": 4590593,
+     "offset": 4592338,
      "length": 301
     },
     {
      "path": "cnc/maps/nod01/map.png",
-     "offset": 4590894,
+     "offset": 4592639,
      "length": 39580
     },
     {
      "path": "cnc/maps/nod01/map.yaml",
-     "offset": 4630474,
+     "offset": 4632219,
      "length": 3880
     },
     {
      "path": "cnc/maps/nod01/nod01.lua",
-     "offset": 4634354,
+     "offset": 4636099,
      "length": 2673
     },
     {
      "path": "cnc/maps/nod01/rules.yaml",
-     "offset": 4637027,
+     "offset": 4638772,
      "length": 730
     },
     {
      "path": "cnc/maps/nod02a/map.bin",
-     "offset": 4637757,
+     "offset": 4639502,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod02a/map.ftl",
-     "offset": 4658254,
+     "offset": 4659999,
      "length": 328
     },
     {
      "path": "cnc/maps/nod02a/map.png",
-     "offset": 4658582,
+     "offset": 4660327,
      "length": 36415
     },
     {
      "path": "cnc/maps/nod02a/map.yaml",
-     "offset": 4694997,
+     "offset": 4696742,
      "length": 3842
     },
     {
      "path": "cnc/maps/nod02a/nod02a.lua",
-     "offset": 4698839,
+     "offset": 4700584,
      "length": 2955
     },
     {
      "path": "cnc/maps/nod02a/rules.yaml",
-     "offset": 4701794,
+     "offset": 4703539,
      "length": 1491
     },
     {
      "path": "cnc/maps/nod02b/map.bin",
-     "offset": 4703285,
+     "offset": 4705030,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod02b/map.ftl",
-     "offset": 4723782,
+     "offset": 4725527,
      "length": 328
     },
     {
      "path": "cnc/maps/nod02b/map.png",
-     "offset": 4724110,
+     "offset": 4725855,
      "length": 37637
     },
     {
      "path": "cnc/maps/nod02b/map.yaml",
-     "offset": 4761747,
+     "offset": 4763492,
      "length": 3224
     },
     {
      "path": "cnc/maps/nod02b/nod02b.lua",
-     "offset": 4764971,
+     "offset": 4766716,
      "length": 4069
     },
     {
      "path": "cnc/maps/nod02b/rules.yaml",
-     "offset": 4769040,
+     "offset": 4770785,
      "length": 2563
     },
     {
      "path": "cnc/maps/nod03a/map.bin",
-     "offset": 4771603,
+     "offset": 4773348,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod03a/map.ftl",
-     "offset": 4792100,
+     "offset": 4793845,
      "length": 257
     },
     {
      "path": "cnc/maps/nod03a/map.png",
-     "offset": 4792357,
+     "offset": 4794102,
      "length": 39318
     },
     {
      "path": "cnc/maps/nod03a/map.yaml",
-     "offset": 4831675,
+     "offset": 4833420,
      "length": 7061
     },
     {
      "path": "cnc/maps/nod03a/nod03a.lua",
-     "offset": 4838736,
+     "offset": 4840481,
      "length": 2703
     },
     {
      "path": "cnc/maps/nod03a/rules.yaml",
-     "offset": 4841439,
+     "offset": 4843184,
      "length": 1333
     },
     {
      "path": "cnc/maps/nod03b/map.bin",
-     "offset": 4842772,
+     "offset": 4844517,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod03b/map.ftl",
-     "offset": 4863269,
+     "offset": 4865014,
      "length": 257
     },
     {
      "path": "cnc/maps/nod03b/map.png",
-     "offset": 4863526,
+     "offset": 4865271,
      "length": 39475
     },
     {
      "path": "cnc/maps/nod03b/map.yaml",
-     "offset": 4903001,
+     "offset": 4904746,
      "length": 7603
     },
     {
      "path": "cnc/maps/nod03b/nod03b.lua",
-     "offset": 4910604,
+     "offset": 4912349,
      "length": 3333
     },
     {
      "path": "cnc/maps/nod03b/rules.yaml",
-     "offset": 4913937,
+     "offset": 4915682,
      "length": 1323
     },
     {
      "path": "cnc/maps/nod04a/map.bin",
-     "offset": 4915260,
+     "offset": 4917005,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod04a/map.ftl",
-     "offset": 4935757,
+     "offset": 4937502,
      "length": 232
     },
     {
      "path": "cnc/maps/nod04a/map.png",
-     "offset": 4935989,
+     "offset": 4937734,
      "length": 36744
     },
     {
      "path": "cnc/maps/nod04a/map.yaml",
-     "offset": 4972733,
+     "offset": 4974478,
      "length": 7929
     },
     {
      "path": "cnc/maps/nod04a/nod04a.lua",
-     "offset": 4980662,
+     "offset": 4982407,
      "length": 5047
     },
     {
      "path": "cnc/maps/nod04a/rules.yaml",
-     "offset": 4985709,
+     "offset": 4987454,
      "length": 412
     },
     {
      "path": "cnc/maps/nod04b/map.bin",
-     "offset": 4986121,
+     "offset": 4987866,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod04b/map.ftl",
-     "offset": 5006618,
+     "offset": 5008363,
      "length": 273
     },
     {
      "path": "cnc/maps/nod04b/map.png",
-     "offset": 5006891,
+     "offset": 5008636,
      "length": 37468
     },
     {
      "path": "cnc/maps/nod04b/map.yaml",
-     "offset": 5044359,
+     "offset": 5046104,
      "length": 8613
     },
     {
      "path": "cnc/maps/nod04b/nod04b.lua",
-     "offset": 5052972,
+     "offset": 5054717,
      "length": 8853
     },
     {
      "path": "cnc/maps/nod04b/rules.yaml",
-     "offset": 5061825,
+     "offset": 5063570,
      "length": 1804
     },
     {
      "path": "cnc/maps/nod05/map.bin",
-     "offset": 5063629,
+     "offset": 5065374,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod05/map.ftl",
-     "offset": 5084126,
+     "offset": 5085871,
      "length": 251
     },
     {
      "path": "cnc/maps/nod05/map.png",
-     "offset": 5084377,
+     "offset": 5086122,
      "length": 36079
     },
     {
      "path": "cnc/maps/nod05/map.yaml",
-     "offset": 5120456,
+     "offset": 5122201,
      "length": 6188
     },
     {
      "path": "cnc/maps/nod05/nod05.lua",
-     "offset": 5126644,
+     "offset": 5128389,
      "length": 7381
     },
     {
      "path": "cnc/maps/nod05/rules.yaml",
-     "offset": 5134025,
+     "offset": 5135770,
      "length": 1928
     },
     {
      "path": "cnc/maps/nod06a/map.bin",
-     "offset": 5135953,
+     "offset": 5137698,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod06a/map.ftl",
-     "offset": 5156450,
+     "offset": 5158195,
      "length": 498
     },
     {
      "path": "cnc/maps/nod06a/map.png",
-     "offset": 5156948,
+     "offset": 5158693,
      "length": 34525
     },
     {
      "path": "cnc/maps/nod06a/map.yaml",
-     "offset": 5191473,
+     "offset": 5193218,
      "length": 10825
     },
     {
      "path": "cnc/maps/nod06a/nod06a.lua",
-     "offset": 5202298,
+     "offset": 5204043,
      "length": 7180
     },
     {
      "path": "cnc/maps/nod06a/rules.yaml",
-     "offset": 5209478,
+     "offset": 5211223,
      "length": 748
     },
     {
      "path": "cnc/maps/nod06b/map.bin",
-     "offset": 5210226,
+     "offset": 5211971,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod06b/map.ftl",
-     "offset": 5230723,
+     "offset": 5232468,
      "length": 498
     },
     {
      "path": "cnc/maps/nod06b/map.png",
-     "offset": 5231221,
+     "offset": 5232966,
      "length": 34747
     },
     {
      "path": "cnc/maps/nod06b/map.yaml",
-     "offset": 5265968,
+     "offset": 5267713,
      "length": 9803
     },
     {
      "path": "cnc/maps/nod06b/nod06b.lua",
-     "offset": 5275771,
+     "offset": 5277516,
      "length": 7200
     },
     {
      "path": "cnc/maps/nod06b/rules.yaml",
-     "offset": 5282971,
+     "offset": 5284716,
      "length": 936
     },
     {
      "path": "cnc/maps/nod06c/map.bin",
-     "offset": 5283907,
+     "offset": 5285652,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod06c/map.ftl",
-     "offset": 5304404,
+     "offset": 5306149,
      "length": 287
     },
     {
      "path": "cnc/maps/nod06c/map.png",
-     "offset": 5304691,
+     "offset": 5306436,
      "length": 34264
     },
     {
      "path": "cnc/maps/nod06c/map.yaml",
-     "offset": 5338955,
+     "offset": 5340700,
      "length": 7607
     },
     {
      "path": "cnc/maps/nod06c/nod06c.lua",
-     "offset": 5346562,
+     "offset": 5348307,
      "length": 5957
     },
     {
      "path": "cnc/maps/nod06c/rules.yaml",
-     "offset": 5352519,
+     "offset": 5354264,
      "length": 1908
     },
     {
      "path": "cnc/maps/nod07a/map.bin",
-     "offset": 5354427,
+     "offset": 5356172,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod07a/map.ftl",
-     "offset": 5374924,
+     "offset": 5376669,
      "length": 342
     },
     {
      "path": "cnc/maps/nod07a/map.png",
-     "offset": 5375266,
+     "offset": 5377011,
      "length": 34605
     },
     {
      "path": "cnc/maps/nod07a/map.yaml",
-     "offset": 5409871,
+     "offset": 5411616,
      "length": 10037
     },
     {
      "path": "cnc/maps/nod07a/nod07a-AI.lua",
-     "offset": 5419908,
+     "offset": 5421653,
      "length": 5136
     },
     {
      "path": "cnc/maps/nod07a/nod07a.lua",
-     "offset": 5425044,
+     "offset": 5426789,
      "length": 9043
     },
     {
      "path": "cnc/maps/nod07a/rules.yaml",
-     "offset": 5434087,
+     "offset": 5435832,
      "length": 1858
     },
     {
      "path": "cnc/maps/nod07a/weapons.yaml",
-     "offset": 5435945,
+     "offset": 5437690,
      "length": 39
     },
     {
      "path": "cnc/maps/nod07b/map.bin",
-     "offset": 5435984,
+     "offset": 5437729,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod07b/map.ftl",
-     "offset": 5456481,
+     "offset": 5458226,
      "length": 342
     },
     {
      "path": "cnc/maps/nod07b/map.png",
-     "offset": 5456823,
+     "offset": 5458568,
      "length": 34527
     },
     {
      "path": "cnc/maps/nod07b/map.yaml",
-     "offset": 5491350,
+     "offset": 5493095,
      "length": 15535
     },
     {
      "path": "cnc/maps/nod07b/nod07b-AI.lua",
-     "offset": 5506885,
+     "offset": 5508630,
      "length": 5261
     },
     {
      "path": "cnc/maps/nod07b/nod07b.lua",
-     "offset": 5512146,
+     "offset": 5513891,
      "length": 8707
     },
     {
      "path": "cnc/maps/nod07b/rules.yaml",
-     "offset": 5520853,
+     "offset": 5522598,
      "length": 1640
     },
     {
      "path": "cnc/maps/nod07c/map.bin",
-     "offset": 5522493,
+     "offset": 5524238,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod07c/map.ftl",
-     "offset": 5542990,
+     "offset": 5544735,
      "length": 340
     },
     {
      "path": "cnc/maps/nod07c/map.png",
-     "offset": 5543330,
+     "offset": 5545075,
      "length": 34709
     },
     {
      "path": "cnc/maps/nod07c/map.yaml",
-     "offset": 5578039,
+     "offset": 5579784,
      "length": 12803
     },
     {
      "path": "cnc/maps/nod07c/nod07c.lua",
-     "offset": 5590842,
+     "offset": 5592587,
      "length": 5640
     },
     {
      "path": "cnc/maps/nod07c/rules.yaml",
-     "offset": 5596482,
+     "offset": 5598227,
      "length": 2237
     },
     {
      "path": "cnc/maps/nod08a/map.bin",
-     "offset": 5598719,
+     "offset": 5600464,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod08a/map.ftl",
-     "offset": 5619216,
+     "offset": 5620961,
      "length": 292
     },
     {
      "path": "cnc/maps/nod08a/map.png",
-     "offset": 5619508,
+     "offset": 5621253,
      "length": 33921
     },
     {
      "path": "cnc/maps/nod08a/map.yaml",
-     "offset": 5653429,
+     "offset": 5655174,
      "length": 9916
     },
     {
      "path": "cnc/maps/nod08a/nod08a-AI.lua",
-     "offset": 5663345,
+     "offset": 5665090,
      "length": 5701
     },
     {
      "path": "cnc/maps/nod08a/nod08a.lua",
-     "offset": 5669046,
+     "offset": 5670791,
      "length": 6691
     },
     {
      "path": "cnc/maps/nod08a/rules.yaml",
-     "offset": 5675737,
+     "offset": 5677482,
      "length": 2527
     },
     {
      "path": "cnc/maps/nod08a/weapons.yaml",
-     "offset": 5678264,
+     "offset": 5680009,
      "length": 131
     },
     {
      "path": "cnc/maps/nod08b/map.bin",
-     "offset": 5678395,
+     "offset": 5680140,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod08b/map.ftl",
-     "offset": 5698892,
+     "offset": 5700637,
      "length": 292
     },
     {
      "path": "cnc/maps/nod08b/map.png",
-     "offset": 5699184,
+     "offset": 5700929,
      "length": 34174
     },
     {
      "path": "cnc/maps/nod08b/map.yaml",
-     "offset": 5733358,
+     "offset": 5735103,
      "length": 12456
     },
     {
      "path": "cnc/maps/nod08b/nod08b-AI.lua",
-     "offset": 5745814,
+     "offset": 5747559,
      "length": 5760
     },
     {
      "path": "cnc/maps/nod08b/nod08b.lua",
-     "offset": 5751574,
+     "offset": 5753319,
      "length": 6525
     },
     {
      "path": "cnc/maps/nod08b/rules.yaml",
-     "offset": 5758099,
+     "offset": 5759844,
      "length": 3042
     },
     {
      "path": "cnc/maps/nod08b/weapons.yaml",
-     "offset": 5761141,
+     "offset": 5762886,
      "length": 131
     },
     {
      "path": "cnc/maps/nod09/map.bin",
-     "offset": 5761272,
+     "offset": 5763017,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod09/map.ftl",
-     "offset": 5781769,
+     "offset": 5783514,
      "length": 234
     },
     {
      "path": "cnc/maps/nod09/map.png",
-     "offset": 5782003,
+     "offset": 5783748,
      "length": 33188
     },
     {
      "path": "cnc/maps/nod09/map.yaml",
-     "offset": 5815191,
+     "offset": 5816936,
      "length": 14358
     },
     {
      "path": "cnc/maps/nod09/nod09-AI.lua",
-     "offset": 5829549,
+     "offset": 5831294,
      "length": 5713
     },
     {
      "path": "cnc/maps/nod09/nod09.lua",
-     "offset": 5835262,
+     "offset": 5837007,
      "length": 8754
     },
     {
      "path": "cnc/maps/nod09/rules.yaml",
-     "offset": 5844016,
+     "offset": 5845761,
      "length": 2819
     },
     {
      "path": "cnc/maps/nod09/weapons.yaml",
-     "offset": 5846835,
+     "offset": 5848580,
      "length": 25
     },
     {
      "path": "cnc/maps/nod10a/map.bin",
-     "offset": 5846860,
+     "offset": 5848605,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod10a/map.ftl",
-     "offset": 5867357,
+     "offset": 5869102,
      "length": 205
     },
     {
      "path": "cnc/maps/nod10a/map.png",
-     "offset": 5867562,
+     "offset": 5869307,
      "length": 9465
     },
     {
      "path": "cnc/maps/nod10a/map.yaml",
-     "offset": 5877027,
+     "offset": 5878772,
      "length": 20957
     },
     {
      "path": "cnc/maps/nod10a/nod10a.lua",
-     "offset": 5897984,
+     "offset": 5899729,
      "length": 2141
     },
     {
      "path": "cnc/maps/nod10a/rules.yaml",
-     "offset": 5900125,
+     "offset": 5901870,
      "length": 1133
     },
     {
      "path": "cnc/maps/nod10b/map.bin",
-     "offset": 5901258,
+     "offset": 5903003,
      "length": 20497
     },
     {
      "path": "cnc/maps/nod10b/map.ftl",
-     "offset": 5921755,
+     "offset": 5923500,
      "length": 252
     },
     {
      "path": "cnc/maps/nod10b/map.png",
-     "offset": 5922007,
+     "offset": 5923752,
      "length": 9515
     },
     {
      "path": "cnc/maps/nod10b/map.yaml",
-     "offset": 5931522,
+     "offset": 5933267,
      "length": 11837
     },
     {
      "path": "cnc/maps/nod10b/nod10b.lua",
-     "offset": 5943359,
+     "offset": 5945104,
      "length": 3709
     },
     {
      "path": "cnc/maps/nod10b/rules.yaml",
-     "offset": 5947068,
+     "offset": 5948813,
      "length": 1008
     },
     {
      "path": "cnc/maps/the-hot-box/map.bin",
-     "offset": 5948076,
+     "offset": 5949821,
      "length": 20497
     },
     {
      "path": "cnc/maps/the-hot-box/map.png",
-     "offset": 5968573,
+     "offset": 5970318,
      "length": 273
     },
     {
      "path": "cnc/maps/the-hot-box/map.yaml",
-     "offset": 5968846,
+     "offset": 5970591,
      "length": 3347
     },
     {
      "path": "cnc/maps/the-hot-box/rules.yaml",
-     "offset": 5972193,
+     "offset": 5973938,
      "length": 1654
     },
     {
      "path": "cnc/maps/the-tiberium-strain/map.bin",
-     "offset": 5973847,
+     "offset": 5975592,
      "length": 20497
     },
     {
      "path": "cnc/maps/the-tiberium-strain/map.ftl",
-     "offset": 5994344,
+     "offset": 5996089,
      "length": 308
     },
     {
      "path": "cnc/maps/the-tiberium-strain/map.png",
-     "offset": 5994652,
+     "offset": 5996397,
      "length": 5943
     },
     {
      "path": "cnc/maps/the-tiberium-strain/map.yaml",
-     "offset": 6000595,
+     "offset": 6002340,
      "length": 23009
     },
     {
      "path": "cnc/maps/the-tiberium-strain/rules.yaml",
-     "offset": 6023604,
+     "offset": 6025349,
      "length": 1809
     },
     {
      "path": "cnc/maps/the-tiberium-strain/the-tiberium-strain.lua",
-     "offset": 6025413,
+     "offset": 6027158,
      "length": 20221
     },
     {
      "path": "cnc/maps/twist-of-fate/map.bin",
-     "offset": 6045634,
+     "offset": 6047379,
      "length": 20497
     },
     {
      "path": "cnc/maps/twist-of-fate/map.ftl",
-     "offset": 6066131,
+     "offset": 6067876,
      "length": 336
     },
     {
      "path": "cnc/maps/twist-of-fate/map.png",
-     "offset": 6066467,
+     "offset": 6068212,
      "length": 11559
     },
     {
      "path": "cnc/maps/twist-of-fate/map.yaml",
-     "offset": 6078026,
+     "offset": 6079771,
      "length": 17850
     },
     {
      "path": "cnc/maps/twist-of-fate/rules.yaml",
-     "offset": 6095876,
+     "offset": 6097621,
      "length": 2417
     },
     {
      "path": "cnc/maps/twist-of-fate/twist-of-fate-AI.lua",
-     "offset": 6098293,
+     "offset": 6100038,
      "length": 19745
     },
     {
      "path": "cnc/maps/twist-of-fate/twist-of-fate.lua",
-     "offset": 6118038,
+     "offset": 6119783,
      "length": 10497
     },
     {
      "path": "cnc/maps/twist-of-fate/weapons.yaml",
-     "offset": 6128535,
+     "offset": 6130280,
      "length": 74
     },
     {
      "path": "cnc/rules/ai.yaml",
-     "offset": 6128609,
+     "offset": 6130354,
      "length": 8727
     },
     {
      "path": "cnc/rules/aircraft.yaml",
-     "offset": 6137336,
+     "offset": 6139081,
      "length": 6441
     },
     {
      "path": "cnc/rules/campaign-maprules.yaml",
-     "offset": 6143777,
+     "offset": 6145522,
      "length": 2565
     },
     {
      "path": "cnc/rules/campaign-palettes.yaml",
-     "offset": 6146342,
+     "offset": 6148087,
      "length": 2848
     },
     {
      "path": "cnc/rules/campaign-tooltips.yaml",
-     "offset": 6149190,
+     "offset": 6150935,
      "length": 1371
     },
     {
      "path": "cnc/rules/civilian-desert.yaml",
-     "offset": 6150561,
+     "offset": 6152306,
      "length": 6830
     },
     {
      "path": "cnc/rules/civilian.yaml",
-     "offset": 6157391,
+     "offset": 6159136,
      "length": 9011
     },
     {
      "path": "cnc/rules/defaults.yaml",
-     "offset": 6166402,
+     "offset": 6168147,
      "length": 26417
     },
     {
      "path": "cnc/rules/disable-player-experience.yaml",
-     "offset": 6192819,
+     "offset": 6194564,
      "length": 307
     },
     {
      "path": "cnc/rules/husks.yaml",
-     "offset": 6193126,
+     "offset": 6194871,
      "length": 2523
     },
     {
      "path": "cnc/rules/infantry.yaml",
-     "offset": 6195649,
+     "offset": 6197394,
      "length": 7458
     },
     {
      "path": "cnc/rules/map-generators.yaml",
-     "offset": 6203107,
+     "offset": 6204852,
      "length": 13609
     },
     {
      "path": "cnc/rules/misc.yaml",
-     "offset": 6216716,
+     "offset": 6218461,
      "length": 2513
     },
     {
      "path": "cnc/rules/palettes.yaml",
-     "offset": 6219229,
+     "offset": 6220974,
      "length": 2736
     },
     {
      "path": "cnc/rules/player.yaml",
-     "offset": 6221965,
+     "offset": 6223710,
      "length": 2426
     },
     {
      "path": "cnc/rules/ships.yaml",
-     "offset": 6224391,
+     "offset": 6226136,
      "length": 1802
     },
     {
      "path": "cnc/rules/structures.yaml",
-     "offset": 6226193,
+     "offset": 6227938,
      "length": 30282
     },
     {
      "path": "cnc/rules/tech.yaml",
-     "offset": 6256475,
+     "offset": 6258220,
      "length": 3445
     },
     {
      "path": "cnc/rules/trees.yaml",
-     "offset": 6259920,
+     "offset": 6261665,
      "length": 6534
     },
     {
      "path": "cnc/rules/vehicles.yaml",
-     "offset": 6266454,
+     "offset": 6268199,
      "length": 17740
     },
     {
      "path": "cnc/rules/world.yaml",
-     "offset": 6284194,
+     "offset": 6285939,
      "length": 7026
     },
     {
      "path": "cnc/scripts/campaign.lua",
-     "offset": 6291220,
+     "offset": 6292965,
      "length": 6489
     },
     {
      "path": "cnc/sequences/aircraft.yaml",
-     "offset": 6297709,
+     "offset": 6299454,
      "length": 1059
     },
     {
      "path": "cnc/sequences/campaign.yaml",
-     "offset": 6298768,
+     "offset": 6300513,
      "length": 555
     },
     {
      "path": "cnc/sequences/civilian.yaml",
-     "offset": 6299323,
+     "offset": 6301068,
      "length": 1797
     },
     {
      "path": "cnc/sequences/decorations.yaml",
-     "offset": 6301120,
+     "offset": 6302865,
      "length": 12833
     },
     {
      "path": "cnc/sequences/funpark.yaml",
-     "offset": 6313953,
+     "offset": 6315698,
      "length": 985
     },
     {
      "path": "cnc/sequences/infantry.yaml",
-     "offset": 6314938,
+     "offset": 6316683,
      "length": 10233
     },
     {
      "path": "cnc/sequences/misc.yaml",
-     "offset": 6325171,
+     "offset": 6326916,
      "length": 12045
     },
     {
      "path": "cnc/sequences/structures.yaml",
-     "offset": 6337216,
+     "offset": 6338961,
      "length": 10258
     },
     {
      "path": "cnc/sequences/vehicles.yaml",
-     "offset": 6347474,
+     "offset": 6349219,
      "length": 6078
     },
     {
      "path": "cnc/tilesets/desert.yaml",
-     "offset": 6353552,
+     "offset": 6355297,
      "length": 50192
     },
     {
      "path": "cnc/tilesets/snow.yaml",
-     "offset": 6403744,
+     "offset": 6405489,
      "length": 42776
     },
     {
      "path": "cnc/tilesets/temperat.yaml",
-     "offset": 6446520,
+     "offset": 6448265,
      "length": 42778
     },
     {
      "path": "cnc/tilesets/winter.yaml",
-     "offset": 6489298,
+     "offset": 6491043,
      "length": 43296
     },
     {
      "path": "cnc/uibits/chrome-2x.png",
-     "offset": 6532594,
+     "offset": 6534339,
      "length": 426352
     },
     {
      "path": "cnc/uibits/chrome-3x.png",
-     "offset": 6958946,
+     "offset": 6960691,
      "length": 761920
     },
     {
      "path": "cnc/uibits/chrome.png",
-     "offset": 7720866,
+     "offset": 7722611,
      "length": 174615
     },
     {
      "path": "cnc/uibits/encyclopedia/a10.png",
-     "offset": 7895481,
+     "offset": 7897226,
      "length": 94772
     },
     {
      "path": "cnc/uibits/encyclopedia/afld.png",
-     "offset": 7990253,
+     "offset": 7991998,
      "length": 192294
     },
     {
      "path": "cnc/uibits/encyclopedia/apc.png",
-     "offset": 8182547,
+     "offset": 8184292,
      "length": 160963
     },
     {
      "path": "cnc/uibits/encyclopedia/arty.png",
-     "offset": 8343510,
+     "offset": 8345255,
      "length": 268887
     },
     {
      "path": "cnc/uibits/encyclopedia/atwr.png",
-     "offset": 8612397,
+     "offset": 8614142,
      "length": 245457
     },
     {
      "path": "cnc/uibits/encyclopedia/bggy.png",
-     "offset": 8857854,
+     "offset": 8859599,
      "length": 232295
     },
     {
      "path": "cnc/uibits/encyclopedia/bike.png",
-     "offset": 9090149,
+     "offset": 9091894,
      "length": 292112
     },
     {
      "path": "cnc/uibits/encyclopedia/boat.png",
-     "offset": 9382261,
+     "offset": 9384006,
      "length": 146441
     },
     {
      "path": "cnc/uibits/encyclopedia/brik.png",
-     "offset": 9528702,
+     "offset": 9530447,
      "length": 245490
     },
     {
      "path": "cnc/uibits/encyclopedia/c17.png",
-     "offset": 9774192,
+     "offset": 9775937,
      "length": 99113
     },
     {
      "path": "cnc/uibits/encyclopedia/cycl.png",
-     "offset": 9873305,
+     "offset": 9875050,
      "length": 261144
     },
     {
      "path": "cnc/uibits/encyclopedia/default.png",
-     "offset": 10134449,
+     "offset": 10136194,
      "length": 102832
     },
     {
      "path": "cnc/uibits/encyclopedia/e1.png",
-     "offset": 10237281,
+     "offset": 10239026,
      "length": 168146
     },
     {
      "path": "cnc/uibits/encyclopedia/e2.png",
-     "offset": 10405427,
+     "offset": 10407172,
      "length": 159738
     },
     {
      "path": "cnc/uibits/encyclopedia/e3.png",
-     "offset": 10565165,
+     "offset": 10566910,
      "length": 190007
     },
     {
      "path": "cnc/uibits/encyclopedia/e4.png",
-     "offset": 10755172,
+     "offset": 10756917,
      "length": 163914
     },
     {
      "path": "cnc/uibits/encyclopedia/e5.png",
-     "offset": 10919086,
+     "offset": 10920831,
      "length": 204446
     },
     {
      "path": "cnc/uibits/encyclopedia/e6.png",
-     "offset": 11123532,
+     "offset": 11125277,
      "length": 137946
     },
     {
      "path": "cnc/uibits/encyclopedia/eye.png",
-     "offset": 11261478,
+     "offset": 11263223,
      "length": 76018
     },
     {
      "path": "cnc/uibits/encyclopedia/fact.png",
-     "offset": 11337496,
+     "offset": 11339241,
      "length": 200691
     },
     {
      "path": "cnc/uibits/encyclopedia/fix.png",
-     "offset": 11538187,
+     "offset": 11539932,
      "length": 206391
     },
     {
      "path": "cnc/uibits/encyclopedia/ftnk.png",
-     "offset": 11744578,
+     "offset": 11746323,
      "length": 176907
     },
     {
      "path": "cnc/uibits/encyclopedia/gtwr.png",
-     "offset": 11921485,
+     "offset": 11923230,
      "length": 190194
     },
     {
      "path": "cnc/uibits/encyclopedia/gun.png",
-     "offset": 12111679,
+     "offset": 12113424,
      "length": 350804
     },
     {
      "path": "cnc/uibits/encyclopedia/hand.png",
-     "offset": 12462483,
+     "offset": 12464228,
      "length": 125636
     },
     {
      "path": "cnc/uibits/encyclopedia/harv.png",
-     "offset": 12588119,
+     "offset": 12589864,
      "length": 244724
     },
     {
      "path": "cnc/uibits/encyclopedia/heli.png",
-     "offset": 12832843,
+     "offset": 12834588,
      "length": 167586
     },
     {
      "path": "cnc/uibits/encyclopedia/hpad.png",
-     "offset": 13000429,
+     "offset": 13002174,
      "length": 194800
     },
     {
      "path": "cnc/uibits/encyclopedia/hq.png",
-     "offset": 13195229,
+     "offset": 13196974,
      "length": 93610
     },
     {
      "path": "cnc/uibits/encyclopedia/htnk.png",
-     "offset": 13288839,
+     "offset": 13290584,
      "length": 158728
     },
     {
      "path": "cnc/uibits/encyclopedia/jeep.png",
-     "offset": 13447567,
+     "offset": 13449312,
      "length": 132567
     },
     {
      "path": "cnc/uibits/encyclopedia/lst.png",
-     "offset": 13580134,
+     "offset": 13581879,
      "length": 105533
     },
     {
      "path": "cnc/uibits/encyclopedia/ltnk.png",
-     "offset": 13685667,
+     "offset": 13687412,
      "length": 167735
     },
     {
      "path": "cnc/uibits/encyclopedia/mcv.png",
-     "offset": 13853402,
+     "offset": 13855147,
      "length": 241036
     },
     {
      "path": "cnc/uibits/encyclopedia/mhq.png",
-     "offset": 14094438,
+     "offset": 14096183,
      "length": 236470
     },
     {
      "path": "cnc/uibits/encyclopedia/mlrs.png",
-     "offset": 14330908,
+     "offset": 14332653,
      "length": 114834
     },
     {
      "path": "cnc/uibits/encyclopedia/msam.png",
-     "offset": 14445742,
+     "offset": 14447487,
      "length": 151320
     },
     {
      "path": "cnc/uibits/encyclopedia/mtnk.png",
-     "offset": 14597062,
+     "offset": 14598807,
      "length": 277385
     },
     {
      "path": "cnc/uibits/encyclopedia/nuk2.png",
-     "offset": 14874447,
+     "offset": 14876192,
      "length": 109404
     },
     {
      "path": "cnc/uibits/encyclopedia/nuke.png",
-     "offset": 14983851,
+     "offset": 14985596,
      "length": 194880
     },
     {
      "path": "cnc/uibits/encyclopedia/obli.png",
-     "offset": 15178731,
+     "offset": 15180476,
      "length": 109414
     },
     {
      "path": "cnc/uibits/encyclopedia/orca.png",
-     "offset": 15288145,
+     "offset": 15289890,
      "length": 278360
     },
     {
      "path": "cnc/uibits/encyclopedia/proc.png",
-     "offset": 15566505,
+     "offset": 15568250,
      "length": 133970
     },
     {
      "path": "cnc/uibits/encyclopedia/pvice.png",
-     "offset": 15700475,
+     "offset": 15702220,
      "length": 165574
     },
     {
      "path": "cnc/uibits/encyclopedia/pyle.png",
-     "offset": 15866049,
+     "offset": 15867794,
      "length": 210065
     },
     {
      "path": "cnc/uibits/encyclopedia/rmbo.png",
-     "offset": 16076114,
+     "offset": 16077859,
      "length": 154012
     },
     {
      "path": "cnc/uibits/encyclopedia/sam.png",
-     "offset": 16230126,
+     "offset": 16231871,
      "length": 229404
     },
     {
      "path": "cnc/uibits/encyclopedia/sbag.png",
-     "offset": 16459530,
+     "offset": 16461275,
      "length": 251169
     },
     {
      "path": "cnc/uibits/encyclopedia/scanlines.png",
-     "offset": 16710699,
+     "offset": 16712444,
      "length": 11883
     },
     {
      "path": "cnc/uibits/encyclopedia/silo.png",
-     "offset": 16722582,
+     "offset": 16724327,
      "length": 145173
     },
     {
      "path": "cnc/uibits/encyclopedia/stnk.png",
-     "offset": 16867755,
+     "offset": 16869500,
      "length": 198838
     },
     {
      "path": "cnc/uibits/encyclopedia/tmpl.png",
-     "offset": 17066593,
+     "offset": 17068338,
      "length": 201978
     },
     {
      "path": "cnc/uibits/encyclopedia/tran.png",
-     "offset": 17268571,
+     "offset": 17270316,
      "length": 156769
     },
     {
      "path": "cnc/uibits/encyclopedia/truck.png",
-     "offset": 17425340,
+     "offset": 17427085,
      "length": 258657
     },
     {
      "path": "cnc/uibits/encyclopedia/weap.png",
-     "offset": 17683997,
+     "offset": 17685742,
      "length": 190828
     },
     {
      "path": "cnc/weapons/ballistics.yaml",
-     "offset": 17874825,
+     "offset": 17876570,
      "length": 2047
     },
     {
      "path": "cnc/weapons/explosions.yaml",
-     "offset": 17876872,
+     "offset": 17878617,
      "length": 3357
     },
     {
      "path": "cnc/weapons/missiles.yaml",
-     "offset": 17880229,
+     "offset": 17881974,
      "length": 5596
     },
     {
      "path": "cnc/weapons/other.yaml",
-     "offset": 17885825,
+     "offset": 17887570,
      "length": 2730
     },
     {
      "path": "cnc/weapons/smallcaliber.yaml",
-     "offset": 17888555,
+     "offset": 17890300,
      "length": 3321
     },
     {
      "path": "cnc/weapons/superweapons.yaml",
-     "offset": 17891876,
+     "offset": 17893621,
      "length": 2979
     },
     {
      "path": "common/FreeSans.ttf",
-     "offset": 17894855,
+     "offset": 17896600,
      "length": 568896
     },
     {
      "path": "common/FreeSansBold.ttf",
-     "offset": 18463751,
+     "offset": 18465496,
      "length": 283180
     },
     {
      "path": "common/hidden-map-preview.png",
-     "offset": 18746931,
+     "offset": 18748676,
      "length": 10205
     },
     {
      "path": "common/metrics.yaml",
-     "offset": 18757136,
+     "offset": 18758881,
      "length": 1728
     },
     {
      "path": "common/chrome/assetbrowser.yaml",
-     "offset": 18758864,
+     "offset": 18760609,
      "length": 4504
     },
     {
      "path": "common/chrome/color-picker.yaml",
-     "offset": 18763368,
+     "offset": 18765113,
      "length": 2830
     },
     {
      "path": "common/chrome/confirmation-dialogs.yaml",
-     "offset": 18766198,
+     "offset": 18767943,
      "length": 2205
     },
     {
      "path": "common/chrome/connection.yaml",
-     "offset": 18768403,
+     "offset": 18770148,
      "length": 3134
     },
     {
      "path": "common/chrome/credits.yaml",
-     "offset": 18771537,
+     "offset": 18773282,
      "length": 976
     },
     {
      "path": "common/chrome/dropdowns.yaml",
-     "offset": 18772513,
+     "offset": 18774258,
      "length": 4159
     },
     {
      "path": "common/chrome/editor.yaml",
-     "offset": 18776672,
+     "offset": 18778417,
      "length": 25455
     },
     {
      "path": "common/chrome/gamesave-browser.yaml",
-     "offset": 18802127,
+     "offset": 18803872,
      "length": 4597
     },
     {
      "path": "common/chrome/gamesave-loading.yaml",
-     "offset": 18806724,
+     "offset": 18808469,
      "length": 837
     },
     {
      "path": "common/chrome/ingame-chat.yaml",
-     "offset": 18807561,
+     "offset": 18809306,
      "length": 1480
     },
     {
      "path": "common/chrome/ingame-debug-hpf.yaml",
-     "offset": 18809041,
+     "offset": 18810786,
      "length": 391
     },
     {
      "path": "common/chrome/ingame-debug.yaml",
-     "offset": 18809432,
+     "offset": 18811177,
      "length": 8292
     },
     {
      "path": "common/chrome/ingame-debuginfo.yaml",
-     "offset": 18817724,
+     "offset": 18819469,
      "length": 230
     },
     {
      "path": "common/chrome/ingame-fmvplayer.yaml",
-     "offset": 18817954,
+     "offset": 18819699,
      "length": 184
     },
     {
      "path": "common/chrome/ingame-info-lobby-options.yaml",
-     "offset": 18818138,
+     "offset": 18819883,
      "length": 1569
     },
     {
      "path": "common/chrome/ingame-info.yaml",
-     "offset": 18819707,
+     "offset": 18821452,
      "length": 2488
     },
     {
      "path": "common/chrome/ingame-infobriefing.yaml",
-     "offset": 18822195,
+     "offset": 18823940,
      "length": 618
     },
     {
      "path": "common/chrome/ingame-infochat.yaml",
-     "offset": 18822813,
+     "offset": 18824558,
      "length": 833
     },
     {
      "path": "common/chrome/ingame-infoobjectives.yaml",
-     "offset": 18823646,
+     "offset": 18825391,
      "length": 873
     },
     {
      "path": "common/chrome/ingame-infoscripterror.yaml",
-     "offset": 18824519,
+     "offset": 18826264,
      "length": 755
     },
     {
      "path": "common/chrome/ingame-infostats.yaml",
-     "offset": 18825274,
+     "offset": 18827019,
      "length": 3999
     },
     {
      "path": "common/chrome/ingame-menu.yaml",
-     "offset": 18829273,
+     "offset": 18831018,
      "length": 1140
     },
     {
      "path": "common/chrome/ingame-perf.yaml",
-     "offset": 18830413,
+     "offset": 18832158,
      "length": 401
     },
     {
      "path": "common/chrome/ingame-transients.yaml",
-     "offset": 18830814,
+     "offset": 18832559,
      "length": 304
     },
     {
      "path": "common/chrome/ingame.yaml",
-     "offset": 18831118,
+     "offset": 18832863,
      "length": 2533
     },
     {
      "path": "common/chrome/load-game-browser.yaml",
-     "offset": 18833651,
+     "offset": 18835396,
      "length": 6640
     },
     {
      "path": "common/chrome/lobby-kickdialogs.yaml",
-     "offset": 18840291,
+     "offset": 18842036,
      "length": 2775
     },
     {
      "path": "common/chrome/lobby-mappreview.yaml",
-     "offset": 18843066,
+     "offset": 18844811,
      "length": 5355
     },
     {
      "path": "common/chrome/lobby-music.yaml",
-     "offset": 18848421,
+     "offset": 18850166,
      "length": 3837
     },
     {
      "path": "common/chrome/lobby-options.yaml",
-     "offset": 18852258,
+     "offset": 18854003,
      "length": 2206
     },
     {
      "path": "common/chrome/lobby-players.yaml",
-     "offset": 18854464,
+     "offset": 18856209,
      "length": 11322
     },
     {
      "path": "common/chrome/lobby-servers.yaml",
-     "offset": 18865786,
+     "offset": 18867531,
      "length": 4493
     },
     {
      "path": "common/chrome/lobby.yaml",
-     "offset": 18870279,
+     "offset": 18872024,
      "length": 3243
     },
     {
      "path": "common/chrome/mainmenu-prompts.yaml",
-     "offset": 18873522,
+     "offset": 18875267,
      "length": 12117
     },
     {
      "path": "common/chrome/mainmenu.yaml",
-     "offset": 18885639,
+     "offset": 18887384,
      "length": 6429
     },
     {
      "path": "common/chrome/map-chooser.yaml",
-     "offset": 18892068,
+     "offset": 18893813,
      "length": 6129
     },
     {
      "path": "common/chrome/missionbrowser.yaml",
-     "offset": 18898197,
+     "offset": 18899942,
      "length": 6427
     },
     {
      "path": "common/chrome/multiplayer-browser.yaml",
-     "offset": 18904624,
+     "offset": 18906369,
      "length": 5684
     },
     {
      "path": "common/chrome/multiplayer-browserpanels.yaml",
-     "offset": 18910308,
+     "offset": 18912053,
      "length": 1716
     },
     {
      "path": "common/chrome/multiplayer-createserver.yaml",
-     "offset": 18912024,
+     "offset": 18913769,
      "length": 4559
     },
     {
      "path": "common/chrome/multiplayer-directconnect.yaml",
-     "offset": 18916583,
+     "offset": 18918328,
      "length": 1061
     },
     {
      "path": "common/chrome/musicplayer.yaml",
-     "offset": 18917644,
+     "offset": 18919389,
      "length": 3681
     },
     {
      "path": "common/chrome/playerprofile.yaml",
-     "offset": 18921325,
+     "offset": 18923070,
      "length": 2798
     },
     {
      "path": "common/chrome/replaybrowser.yaml",
-     "offset": 18924123,
+     "offset": 18925868,
      "length": 6178
     },
     {
      "path": "common/chrome/settings-advanced.yaml",
-     "offset": 18930301,
+     "offset": 18932046,
      "length": 5740
     },
     {
      "path": "common/chrome/settings-audio.yaml",
-     "offset": 18936041,
+     "offset": 18937786,
      "length": 3921
     },
     {
      "path": "common/chrome/settings-display.yaml",
-     "offset": 18939962,
+     "offset": 18941707,
      "length": 8750
     },
     {
      "path": "common/chrome/settings-gameplay.yaml",
-     "offset": 18948712,
+     "offset": 18950457,
      "length": 5644
     },
     {
      "path": "common/chrome/settings-hotkeys.yaml",
-     "offset": 18954356,
+     "offset": 18956101,
      "length": 4156
     },
     {
      "path": "common/chrome/settings-input.yaml",
-     "offset": 18958512,
+     "offset": 18960257,
      "length": 10544
     },
     {
      "path": "common/chrome/settings.yaml",
-     "offset": 18969056,
+     "offset": 18970801,
      "length": 1288
     },
     {
      "path": "common/chrome/text-notifications.yaml",
-     "offset": 18970344,
+     "offset": 18972089,
      "length": 941
     },
     {
      "path": "common/chrome/tooltips.yaml",
-     "offset": 18971285,
+     "offset": 18973030,
      "length": 5764
     },
     {
      "path": "common/fluent/chrome.ftl",
-     "offset": 18977049,
+     "offset": 18978794,
      "length": 33374
     },
     {
      "path": "common/fluent/common.ftl",
-     "offset": 19010423,
+     "offset": 19012168,
      "length": 36473
     },
     {
      "path": "common/fluent/hotkeys.ftl",
-     "offset": 19046896,
+     "offset": 19048641,
      "length": 9184
     },
     {
      "path": "common/fluent/ingame-debug.ftl",
-     "offset": 19056080,
+     "offset": 19057825,
      "length": 1628
     },
     {
      "path": "common/fluent/rules.ftl",
-     "offset": 19057708,
+     "offset": 19059453,
      "length": 1766
     },
     {
      "path": "common/hotkeys/chat.yaml",
-     "offset": 19059474,
+     "offset": 19061219,
      "length": 479
     },
     {
      "path": "common/hotkeys/control-groups.yaml",
-     "offset": 19059953,
+     "offset": 19061698,
      "length": 7480
     },
     {
      "path": "common/hotkeys/editor.yaml",
-     "offset": 19067433,
+     "offset": 19069178,
      "length": 1889
     },
     {
      "path": "common/hotkeys/game.yaml",
-     "offset": 19069322,
+     "offset": 19071067,
      "length": 2902
     },
     {
      "path": "common/hotkeys/observer.yaml",
-     "offset": 19072224,
+     "offset": 19073969,
      "length": 1669
     },
     {
      "path": "common/hotkeys/production-common.yaml",
-     "offset": 19073893,
+     "offset": 19075638,
      "length": 2853
     },
     {
      "path": "common/hotkeys/supportpowers.yaml",
-     "offset": 19076746,
+     "offset": 19078491,
      "length": 623
     },
     {
      "path": "common/hotkeys/viewport.yaml",
-     "offset": 19077369,
+     "offset": 19079114,
      "length": 2747
     },
     {
      "path": "common/scripts/utils.lua",
-     "offset": 19080116,
+     "offset": 19081861,
      "length": 1660
     }
    ]
