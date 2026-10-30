@@ -1,0 +1,19 @@
+{
+  "documentTitle": "nait.best world - Browser",
+  "loadingTitle": "Loading the world...",
+  "modId": "world",
+  "content": {
+    "bundleName": "content",
+    "mountPath": "/openra-support/Content/cnc",
+    "urlPrefix": "",
+    "files": null
+  },
+  "requiredPaths": [
+    "/openra/VERSION",
+    "/openra/glsl/combined.vert",
+    "/openra/mods/world/mod.yaml",
+    "/openra/mods/cnc/mod.yaml",
+    "/openra-support/settings.yaml"
+  ],
+  "defaultSkirmishTitle": null
+}

@@ -1,0 +1,3738 @@
+{
+ "version": 1,
+ "profile": "world",
+ "bundles": [
+  {
+   "name": "mods",
+   "data": "mods-bundle.bin",
+   "entries": [
+    {
+     "path": "world/cursors.yaml",
+     "offset": 0,
+     "length": 134
+    },
+    {
+     "path": "world/mod.yaml",
+     "offset": 134,
+     "length": 6399
+    },
+    {
+     "path": "world/chrome/ingame.yaml",
+     "offset": 6533,
+     "length": 50538
+    },
+    {
+     "path": "world/maps/current-uid.txt",
+     "offset": 57071,
+     "length": 40
+    },
+    {
+     "path": "world/maps/last-gen.json",
+     "offset": 57111,
+     "length": 526
+    },
+    {
+     "path": "world/maps/world.oramap",
+     "offset": 57637,
+     "length": 3700
+    },
+    {
+     "path": "world/rules/player.yaml",
+     "offset": 61337,
+     "length": 82
+    },
+    {
+     "path": "world/rules/structures.yaml",
+     "offset": 61419,
+     "length": 231
+    },
+    {
+     "path": "world/rules/world.yaml",
+     "offset": 61650,
+     "length": 157
+    },
+    {
+     "path": "world/tilesets/world.yaml",
+     "offset": 61807,
+     "length": 558
+    },
+    {
+     "path": "cnc/chrome.yaml",
+     "offset": 62365,
+     "length": 15217
+    },
+    {
+     "path": "cnc/cursors.yaml",
+     "offset": 77582,
+     "length": 3355
+    },
+    {
+     "path": "cnc/hotkeys.yaml",
+     "offset": 80937,
+     "length": 835
+    },
+    {
+     "path": "cnc/icon-2x.png",
+     "offset": 81772,
+     "length": 6197
+    },
+    {
+     "path": "cnc/icon-3x.png",
+     "offset": 87969,
+     "length": 10654
+    },
+    {
+     "path": "cnc/icon.png",
+     "offset": 98623,
+     "length": 2246
+    },
+    {
+     "path": "cnc/metrics.yaml",
+     "offset": 100869,
+     "length": 203
+    },
+    {
+     "path": "cnc/missions.yaml",
+     "offset": 101072,
+     "length": 416
+    },
+    {
+     "path": "cnc/mod.yaml",
+     "offset": 101488,
+     "length": 6255
+    },
+    {
+     "path": "cnc/audio/music.yaml",
+     "offset": 107743,
+     "length": 2330
+    },
+    {
+     "path": "cnc/audio/notifications.yaml",
+     "offset": 110073,
+     "length": 2697
+    },
+    {
+     "path": "cnc/audio/voices.yaml",
+     "offset": 112770,
+     "length": 1566
+    },
+    {
+     "path": "cnc/bits/a10cr.tem",
+     "offset": 114336,
+     "length": 4672
+    },
+    {
+     "path": "cnc/bits/afld.shp",
+     "offset": 119008,
+     "length": 7440
+    },
+    {
+     "path": "cnc/bits/afld_d.shp",
+     "offset": 126448,
+     "length": 1916
+    },
+    {
+     "path": "cnc/bits/allyrepair.shp",
+     "offset": 128364,
+     "length": 1097
+    },
+    {
+     "path": "cnc/bits/apcmuz.shp",
+     "offset": 129461,
+     "length": 1654
+    },
+    {
+     "path": "cnc/bits/apctur.shp",
+     "offset": 131115,
+     "length": 7139
+    },
+    {
+     "path": "cnc/bits/atomicon.shp",
+     "offset": 138254,
+     "length": 515
+    },
+    {
+     "path": "cnc/bits/beaconclock.shp",
+     "offset": 138769,
+     "length": 5932
+    },
+    {
+     "path": "cnc/bits/boaticnh.shp",
+     "offset": 144701,
+     "length": 1995
+    },
+    {
+     "path": "cnc/bits/bombicon.shp",
+     "offset": 146696,
+     "length": 547
+    },
+    {
+     "path": "cnc/bits/c17icnh.shp",
+     "offset": 147243,
+     "length": 2187
+    },
+    {
+     "path": "cnc/bits/camera.shp",
+     "offset": 149430,
+     "length": 94
+    },
+    {
+     "path": "cnc/bits/chan.shp",
+     "offset": 149524,
+     "length": 16361
+    },
+    {
+     "path": "cnc/bits/civcapt1.aud",
+     "offset": 165885,
+     "length": 25674
+    },
+    {
+     "path": "cnc/bits/cliffsl1.sno",
+     "offset": 191559,
+     "length": 1074
+    },
+    {
+     "path": "cnc/bits/cliffsl1.tem",
+     "offset": 192633,
+     "length": 1188
+    },
+    {
+     "path": "cnc/bits/cliffsl1.win",
+     "offset": 193821,
+     "length": 1206
+    },
+    {
+     "path": "cnc/bits/cliffsl2.sno",
+     "offset": 195027,
+     "length": 992
+    },
+    {
+     "path": "cnc/bits/cliffsl2.tem",
+     "offset": 196019,
+     "length": 1159
+    },
+    {
+     "path": "cnc/bits/cliffsl2.win",
+     "offset": 197178,
+     "length": 1172
+    },
+    {
+     "path": "cnc/bits/cliffsl3.sno",
+     "offset": 198350,
+     "length": 1023
+    },
+    {
+     "path": "cnc/bits/cliffsl3.tem",
+     "offset": 199373,
+     "length": 1090
+    },
+    {
+     "path": "cnc/bits/cliffsl3.win",
+     "offset": 200463,
+     "length": 1214
+    },
+    {
+     "path": "cnc/bits/cliffsl4.sno",
+     "offset": 201677,
+     "length": 1013
+    },
+    {
+     "path": "cnc/bits/cliffsl4.tem",
+     "offset": 202690,
+     "length": 1195
+    },
+    {
+     "path": "cnc/bits/cliffsl4.win",
+     "offset": 203885,
+     "length": 1141
+    },
+    {
+     "path": "cnc/bits/cloakcrate.shp",
+     "offset": 205026,
+     "length": 7024
+    },
+    {
+     "path": "cnc/bits/cycl.shp",
+     "offset": 212050,
+     "length": 7635
+    },
+    {
+     "path": "cnc/bits/dinoatk1.aud",
+     "offset": 219685,
+     "length": 7925
+    },
+    {
+     "path": "cnc/bits/dinodie1.aud",
+     "offset": 227610,
+     "length": 9808
+    },
+    {
+     "path": "cnc/bits/dinomout.aud",
+     "offset": 237418,
+     "length": 6724
+    },
+    {
+     "path": "cnc/bits/dinoyes.aud",
+     "offset": 244142,
+     "length": 9504
+    },
+    {
+     "path": "cnc/bits/enemya.aud",
+     "offset": 253646,
+     "length": 25628
+    },
+    {
+     "path": "cnc/bits/eye.shp",
+     "offset": 279274,
+     "length": 15974
+    },
+    {
+     "path": "cnc/bits/eyemake.shp",
+     "offset": 295248,
+     "length": 9533
+    },
+    {
+     "path": "cnc/bits/fact.shp",
+     "offset": 304781,
+     "length": 40095
+    },
+    {
+     "path": "cnc/bits/facticnh.shp",
+     "offset": 344876,
+     "length": 2357
+    },
+    {
+     "path": "cnc/bits/fb4.shp",
+     "offset": 347233,
+     "length": 213
+    },
+    {
+     "path": "cnc/bits/fullshroud.shp",
+     "offset": 347446,
+     "length": 43
+    },
+    {
+     "path": "cnc/bits/gun5.aud",
+     "offset": 347489,
+     "length": 13277
+    },
+    {
+     "path": "cnc/bits/gunfire2.shp",
+     "offset": 360766,
+     "length": 455
+    },
+    {
+     "path": "cnc/bits/hand.shp",
+     "offset": 361221,
+     "length": 4950
+    },
+    {
+     "path": "cnc/bits/handmake.shp",
+     "offset": 366171,
+     "length": 19932
+    },
+    {
+     "path": "cnc/bits/harvdump.shp",
+     "offset": 386103,
+     "length": 3062
+    },
+    {
+     "path": "cnc/bits/harvlost.aud",
+     "offset": 389165,
+     "length": 19006
+    },
+    {
+     "path": "cnc/bits/hclock.shp",
+     "offset": 408171,
+     "length": 10119
+    },
+    {
+     "path": "cnc/bits/healcrate.shp",
+     "offset": 418290,
+     "length": 3126
+    },
+    {
+     "path": "cnc/bits/heli.shp",
+     "offset": 421416,
+     "length": 7171
+    },
+    {
+     "path": "cnc/bits/ionicnh.tem",
+     "offset": 428587,
+     "length": 2693
+    },
+    {
+     "path": "cnc/bits/levelup.shp",
+     "offset": 431280,
+     "length": 345
+    },
+    {
+     "path": "cnc/bits/lsticnh.shp",
+     "offset": 431625,
+     "length": 2402
+    },
+    {
+     "path": "cnc/bits/mbFIX.des",
+     "offset": 434027,
+     "length": 1052
+    },
+    {
+     "path": "cnc/bits/mbFIX.sno",
+     "offset": 435079,
+     "length": 869
+    },
+    {
+     "path": "cnc/bits/mbFIX.tem",
+     "offset": 435948,
+     "length": 1068
+    },
+    {
+     "path": "cnc/bits/mbGTWR.des",
+     "offset": 437016,
+     "length": 192
+    },
+    {
+     "path": "cnc/bits/mbGTWR.sno",
+     "offset": 437208,
+     "length": 195
+    },
+    {
+     "path": "cnc/bits/mbGTWR.tem",
+     "offset": 437403,
+     "length": 199
+    },
+    {
+     "path": "cnc/bits/mbGUN.des",
+     "offset": 437602,
+     "length": 243
+    },
+    {
+     "path": "cnc/bits/mbGUN.sno",
+     "offset": 437845,
+     "length": 222
+    },
+    {
+     "path": "cnc/bits/mbGUN.tem",
+     "offset": 438067,
+     "length": 259
+    },
+    {
+     "path": "cnc/bits/mbHOSP.des",
+     "offset": 438326,
+     "length": 944
+    },
+    {
+     "path": "cnc/bits/mbHOSP.sno",
+     "offset": 439270,
+     "length": 857
+    },
+    {
+     "path": "cnc/bits/mbHOSP.tem",
+     "offset": 440127,
+     "length": 1090
+    },
+    {
+     "path": "cnc/bits/mbMISS.des",
+     "offset": 441217,
+     "length": 1202
+    },
+    {
+     "path": "cnc/bits/mbMISS.sno",
+     "offset": 442419,
+     "length": 853
+    },
+    {
+     "path": "cnc/bits/mbMISS.tem",
+     "offset": 443272,
+     "length": 1257
+    },
+    {
+     "path": "cnc/bits/mbOBLI.des",
+     "offset": 444529,
+     "length": 176
+    },
+    {
+     "path": "cnc/bits/mbOBLI.sno",
+     "offset": 444705,
+     "length": 168
+    },
+    {
+     "path": "cnc/bits/mbOBLI.tem",
+     "offset": 444873,
+     "length": 184
+    },
+    {
+     "path": "cnc/bits/mbSILO.des",
+     "offset": 445057,
+     "length": 672
+    },
+    {
+     "path": "cnc/bits/mbSILO.sno",
+     "offset": 445729,
+     "length": 628
+    },
+    {
+     "path": "cnc/bits/mbSILO.tem",
+     "offset": 446357,
+     "length": 783
+    },
+    {
+     "path": "cnc/bits/mhqicnh.shp",
+     "offset": 447140,
+     "length": 2773
+    },
+    {
+     "path": "cnc/bits/missicnh.shp",
+     "offset": 449913,
+     "length": 2738
+    },
+    {
+     "path": "cnc/bits/missmake.shp",
+     "offset": 452651,
+     "length": 17864
+    },
+    {
+     "path": "cnc/bits/mlrs.shp",
+     "offset": 470515,
+     "length": 25774
+    },
+    {
+     "path": "cnc/bits/mlrsicnh.tem",
+     "offset": 496289,
+     "length": 2211
+    },
+    {
+     "path": "cnc/bits/moebius.shp",
+     "offset": 498500,
+     "length": 17778
+    },
+    {
+     "path": "cnc/bits/mouse2.shp",
+     "offset": 516278,
+     "length": 23247
+    },
+    {
+     "path": "cnc/bits/mouse3.shp",
+     "offset": 539525,
+     "length": 399
+    },
+    {
+     "path": "cnc/bits/mouse4.shp",
+     "offset": 539924,
+     "length": 7927
+    },
+    {
+     "path": "cnc/bits/mouse5.shp",
+     "offset": 547851,
+     "length": 2844
+    },
+    {
+     "path": "cnc/bits/mouse6.shp",
+     "offset": 550695,
+     "length": 1979
+    },
+    {
+     "path": "cnc/bits/mouse7.shp",
+     "offset": 552674,
+     "length": 2629
+    },
+    {
+     "path": "cnc/bits/mpspawn.shp",
+     "offset": 555303,
+     "length": 146
+    },
+    {
+     "path": "cnc/bits/nobuild1.aud",
+     "offset": 555449,
+     "length": 25628
+    },
+    {
+     "path": "cnc/bits/nuyell10.aud",
+     "offset": 581077,
+     "length": 7096
+    },
+    {
+     "path": "cnc/bits/nuyell11.aud",
+     "offset": 588173,
+     "length": 7685
+    },
+    {
+     "path": "cnc/bits/nuyell12.aud",
+     "offset": 595858,
+     "length": 8819
+    },
+    {
+     "path": "cnc/bits/nuyell6.aud",
+     "offset": 604677,
+     "length": 6648
+    },
+    {
+     "path": "cnc/bits/nuyell7.aud",
+     "offset": 611325,
+     "length": 9477
+    },
+    {
+     "path": "cnc/bits/pdigits.shp",
+     "offset": 620802,
+     "length": 605
+    },
+    {
+     "path": "cnc/bits/pip-hazmat.shp",
+     "offset": 621407,
+     "length": 78
+    },
+    {
+     "path": "cnc/bits/pip-heal.shp",
+     "offset": 621485,
+     "length": 96
+    },
+    {
+     "path": "cnc/bits/pips.shp",
+     "offset": 621581,
+     "length": 186
+    },
+    {
+     "path": "cnc/bits/poweroff.shp",
+     "offset": 621767,
+     "length": 653
+    },
+    {
+     "path": "cnc/bits/proctwr.shp",
+     "offset": 622420,
+     "length": 281
+    },
+    {
+     "path": "cnc/bits/pvice.shp",
+     "offset": 622701,
+     "length": 4102
+    },
+    {
+     "path": "cnc/bits/pylemake.shp",
+     "offset": 626803,
+     "length": 8378
+    },
+    {
+     "path": "cnc/bits/radarcrate.shp",
+     "offset": 635181,
+     "length": 4007
+    },
+    {
+     "path": "cnc/bits/rank.shp",
+     "offset": 639188,
+     "length": 259
+    },
+    {
+     "path": "cnc/bits/rapticnh.shp",
+     "offset": 639447,
+     "length": 2844
+    },
+    {
+     "path": "cnc/bits/repair1.aud",
+     "offset": 642291,
+     "length": 17372
+    },
+    {
+     "path": "cnc/bits/sandbag2.aud",
+     "offset": 659663,
+     "length": 8075
+    },
+    {
+     "path": "cnc/bits/scrate.shp",
+     "offset": 667738,
+     "length": 354
+    },
+    {
+     "path": "cnc/bits/silo.shp",
+     "offset": 668092,
+     "length": 2631
+    },
+    {
+     "path": "cnc/bits/silomake.shp",
+     "offset": 670723,
+     "length": 5306
+    },
+    {
+     "path": "cnc/bits/snow.mix",
+     "offset": 676029,
+     "length": 723952
+    },
+    {
+     "path": "cnc/bits/snow.pal",
+     "offset": 1399981,
+     "length": 768
+    },
+    {
+     "path": "cnc/bits/stegicnh.shp",
+     "offset": 1400749,
+     "length": 2759
+    },
+    {
+     "path": "cnc/bits/tmplicnh.shp",
+     "offset": 1403508,
+     "length": 2616
+    },
+    {
+     "path": "cnc/bits/tone15.aud",
+     "offset": 1406124,
+     "length": 669
+    },
+    {
+     "path": "cnc/bits/tone16.aud",
+     "offset": 1406793,
+     "length": 1508
+    },
+    {
+     "path": "cnc/bits/toss1.aud",
+     "offset": 1408301,
+     "length": 1980
+    },
+    {
+     "path": "cnc/bits/trexicnh.shp",
+     "offset": 1410281,
+     "length": 2322
+    },
+    {
+     "path": "cnc/bits/tricicnh.shp",
+     "offset": 1412603,
+     "length": 2763
+    },
+    {
+     "path": "cnc/bits/truck.shp",
+     "offset": 1415366,
+     "length": 9470
+    },
+    {
+     "path": "cnc/bits/truckicon.shp",
+     "offset": 1424836,
+     "length": 2854
+    },
+    {
+     "path": "cnc/bits/tunnel1.tem",
+     "offset": 1427690,
+     "length": 5020
+    },
+    {
+     "path": "cnc/bits/tunnel2.tem",
+     "offset": 1432710,
+     "length": 4990
+    },
+    {
+     "path": "cnc/bits/tunnel3.tem",
+     "offset": 1437700,
+     "length": 5137
+    },
+    {
+     "path": "cnc/bits/tunnel4.tem",
+     "offset": 1442837,
+     "length": 4800
+    },
+    {
+     "path": "cnc/bits/viceicnh.shp",
+     "offset": 1447637,
+     "length": 2415
+    },
+    {
+     "path": "cnc/bits/wake.shp",
+     "offset": 1450052,
+     "length": 1956
+    },
+    {
+     "path": "cnc/bits/waypoint.shp",
+     "offset": 1452008,
+     "length": 92
+    },
+    {
+     "path": "cnc/bits/wcrate.shp",
+     "offset": 1452100,
+     "length": 354
+    },
+    {
+     "path": "cnc/bits/xcrate.shp",
+     "offset": 1452454,
+     "length": 515
+    },
+    {
+     "path": "cnc/bits/desert/b06.des",
+     "offset": 1452969,
+     "length": 619
+    },
+    {
+     "path": "cnc/bits/desert/br10.des",
+     "offset": 1453588,
+     "length": 2356
+    },
+    {
+     "path": "cnc/bits/desert/br5.des",
+     "offset": 1455944,
+     "length": 3514
+    },
+    {
+     "path": "cnc/bits/desert/cliffsl1.des",
+     "offset": 1459458,
+     "length": 1153
+    },
+    {
+     "path": "cnc/bits/desert/cliffsl2.des",
+     "offset": 1460611,
+     "length": 1137
+    },
+    {
+     "path": "cnc/bits/desert/cliffsl3.des",
+     "offset": 1461748,
+     "length": 1196
+    },
+    {
+     "path": "cnc/bits/desert/cliffsl4.des",
+     "offset": 1462944,
+     "length": 1181
+    },
+    {
+     "path": "cnc/bits/desert/p08.des",
+     "offset": 1464125,
+     "length": 1198
+    },
+    {
+     "path": "cnc/bits/desert/p09.des",
+     "offset": 1465323,
+     "length": 1198
+    },
+    {
+     "path": "cnc/bits/desert/p10.des",
+     "offset": 1466521,
+     "length": 3514
+    },
+    {
+     "path": "cnc/bits/ss/armorcrate.shp",
+     "offset": 1470035,
+     "length": 5403
+    },
+    {
+     "path": "cnc/bits/ss/armorup.aud",
+     "offset": 1475438,
+     "length": 9067
+    },
+    {
+     "path": "cnc/bits/ss/firepowercrate.shp",
+     "offset": 1484505,
+     "length": 4039
+    },
+    {
+     "path": "cnc/bits/ss/firepowerup.aud",
+     "offset": 1488544,
+     "length": 5947
+    },
+    {
+     "path": "cnc/bits/ss/rangeup.aud",
+     "offset": 1494491,
+     "length": 14508
+    },
+    {
+     "path": "cnc/bits/ss/rateoffireup.aud",
+     "offset": 1508999,
+     "length": 6041
+    },
+    {
+     "path": "cnc/bits/ss/speedcrate.shp",
+     "offset": 1515040,
+     "length": 1619
+    },
+    {
+     "path": "cnc/bits/ss/speedup.aud",
+     "offset": 1516659,
+     "length": 33291
+    },
+    {
+     "path": "cnc/chrome/assetbrowser.yaml",
+     "offset": 1549950,
+     "length": 5104
+    },
+    {
+     "path": "cnc/chrome/color-picker.yaml",
+     "offset": 1555054,
+     "length": 2856
+    },
+    {
+     "path": "cnc/chrome/connection.yaml",
+     "offset": 1557910,
+     "length": 3413
+    },
+    {
+     "path": "cnc/chrome/credits.yaml",
+     "offset": 1561323,
+     "length": 1104
+    },
+    {
+     "path": "cnc/chrome/dialogs.yaml",
+     "offset": 1562427,
+     "length": 6329
+    },
+    {
+     "path": "cnc/chrome/editor.yaml",
+     "offset": 1568756,
+     "length": 26576
+    },
+    {
+     "path": "cnc/chrome/encyclopedia.yaml",
+     "offset": 1595332,
+     "length": 3404
+    },
+    {
+     "path": "cnc/chrome/gamesave-browser.yaml",
+     "offset": 1598736,
+     "length": 4954
+    },
+    {
+     "path": "cnc/chrome/gamesave-loading.yaml",
+     "offset": 1603690,
+     "length": 1195
+    },
+    {
+     "path": "cnc/chrome/ingame-chat.yaml",
+     "offset": 1604885,
+     "length": 1672
+    },
+    {
+     "path": "cnc/chrome/ingame-debug.yaml",
+     "offset": 1606557,
+     "length": 8127
+    },
+    {
+     "path": "cnc/chrome/ingame-debuginfo.yaml",
+     "offset": 1614684,
+     "length": 230
+    },
+    {
+     "path": "cnc/chrome/ingame-info-lobby-options.yaml",
+     "offset": 1614914,
+     "length": 1630
+    },
+    {
+     "path": "cnc/chrome/ingame-info.yaml",
+     "offset": 1616544,
+     "length": 2069
+    },
+    {
+     "path": "cnc/chrome/ingame-infobriefing.yaml",
+     "offset": 1618613,
+     "length": 616
+    },
+    {
+     "path": "cnc/chrome/ingame-infochat.yaml",
+     "offset": 1619229,
+     "length": 830
+    },
+    {
+     "path": "cnc/chrome/ingame-infoobjectives.yaml",
+     "offset": 1620059,
+     "length": 887
+    },
+    {
+     "path": "cnc/chrome/ingame-infostats.yaml",
+     "offset": 1620946,
+     "length": 4044
+    },
+    {
+     "path": "cnc/chrome/ingame-menu.yaml",
+     "offset": 1624990,
+     "length": 852
+    },
+    {
+     "path": "cnc/chrome/ingame.yaml",
+     "offset": 1625842,
+     "length": 50092
+    },
+    {
+     "path": "cnc/chrome/load-game-browser.yaml",
+     "offset": 1675934,
+     "length": 7083
+    },
+    {
+     "path": "cnc/chrome/lobby-kickdialogs.yaml",
+     "offset": 1683017,
+     "length": 2813
+    },
+    {
+     "path": "cnc/chrome/lobby-mappreview.yaml",
+     "offset": 1685830,
+     "length": 5319
+    },
+    {
+     "path": "cnc/chrome/lobby-music.yaml",
+     "offset": 1691149,
+     "length": 4042
+    },
+    {
+     "path": "cnc/chrome/lobby-options.yaml",
+     "offset": 1695191,
+     "length": 2344
+    },
+    {
+     "path": "cnc/chrome/lobby-players.yaml",
+     "offset": 1697535,
+     "length": 10852
+    },
+    {
+     "path": "cnc/chrome/lobby-servers.yaml",
+     "offset": 1708387,
+     "length": 4592
+    },
+    {
+     "path": "cnc/chrome/lobby.yaml",
+     "offset": 1712979,
+     "length": 3290
+    },
+    {
+     "path": "cnc/chrome/mainmenu-prompts.yaml",
+     "offset": 1716269,
+     "length": 13053
+    },
+    {
+     "path": "cnc/chrome/mainmenu.yaml",
+     "offset": 1729322,
+     "length": 6103
+    },
+    {
+     "path": "cnc/chrome/mapchooser.yaml",
+     "offset": 1735425,
+     "length": 6532
+    },
+    {
+     "path": "cnc/chrome/missionbrowser.yaml",
+     "offset": 1741957,
+     "length": 6850
+    },
+    {
+     "path": "cnc/chrome/multiplayer-browser.yaml",
+     "offset": 1748807,
+     "length": 6137
+    },
+    {
+     "path": "cnc/chrome/multiplayer-browserpanels.yaml",
+     "offset": 1754944,
+     "length": 1741
+    },
+    {
+     "path": "cnc/chrome/multiplayer-createserver.yaml",
+     "offset": 1756685,
+     "length": 4873
+    },
+    {
+     "path": "cnc/chrome/multiplayer-directconnect.yaml",
+     "offset": 1761558,
+     "length": 1057
+    },
+    {
+     "path": "cnc/chrome/music.yaml",
+     "offset": 1762615,
+     "length": 4413
+    },
+    {
+     "path": "cnc/chrome/playerprofile.yaml",
+     "offset": 1767028,
+     "length": 2805
+    },
+    {
+     "path": "cnc/chrome/replaybrowser.yaml",
+     "offset": 1769833,
+     "length": 6727
+    },
+    {
+     "path": "cnc/chrome/settings-advanced.yaml",
+     "offset": 1776560,
+     "length": 5740
+    },
+    {
+     "path": "cnc/chrome/settings-audio.yaml",
+     "offset": 1782300,
+     "length": 3921
+    },
+    {
+     "path": "cnc/chrome/settings-display.yaml",
+     "offset": 1786221,
+     "length": 8390
+    },
+    {
+     "path": "cnc/chrome/settings-gameplay.yaml",
+     "offset": 1794611,
+     "length": 5749
+    },
+    {
+     "path": "cnc/chrome/settings-hotkeys.yaml",
+     "offset": 1800360,
+     "length": 4165
+    },
+    {
+     "path": "cnc/chrome/settings-input.yaml",
+     "offset": 1804525,
+     "length": 10544
+    },
+    {
+     "path": "cnc/chrome/settings.yaml",
+     "offset": 1815069,
+     "length": 1211
+    },
+    {
+     "path": "cnc/chrome/tooltips.yaml",
+     "offset": 1816280,
+     "length": 8720
+    },
+    {
+     "path": "cnc/fluent/campaign.ftl",
+     "offset": 1825000,
+     "length": 656
+    },
+    {
+     "path": "cnc/fluent/chrome.ftl",
+     "offset": 1825656,
+     "length": 34552
+    },
+    {
+     "path": "cnc/fluent/cnc.ftl",
+     "offset": 1860208,
+     "length": 248
+    },
+    {
+     "path": "cnc/fluent/hotkeys.ftl",
+     "offset": 1860456,
+     "length": 409
+    },
+    {
+     "path": "cnc/fluent/lua.ftl",
+     "offset": 1860865,
+     "length": 5699
+    },
+    {
+     "path": "cnc/fluent/rules.ftl",
+     "offset": 1866564,
+     "length": 35109
+    },
+    {
+     "path": "cnc/maps/16-9.oramap",
+     "offset": 1901673,
+     "length": 6935
+    },
+    {
+     "path": "cnc/maps/a-new-winter.oramap",
+     "offset": 1908608,
+     "length": 10406
+    },
+    {
+     "path": "cnc/maps/african-gambit.oramap",
+     "offset": 1919014,
+     "length": 13703
+    },
+    {
+     "path": "cnc/maps/aggressive-tendencies.oramap",
+     "offset": 1932717,
+     "length": 6089
+    },
+    {
+     "path": "cnc/maps/alpha-juno-5.oramap",
+     "offset": 1938806,
+     "length": 18178
+    },
+    {
+     "path": "cnc/maps/antrax.oramap",
+     "offset": 1956984,
+     "length": 10940
+    },
+    {
+     "path": "cnc/maps/anvil-of-war.oramap",
+     "offset": 1967924,
+     "length": 18649
+    },
+    {
+     "path": "cnc/maps/arcade.oramap",
+     "offset": 1986573,
+     "length": 7991
+    },
+    {
+     "path": "cnc/maps/armageddon.oramap",
+     "offset": 1994564,
+     "length": 20997
+    },
+    {
+     "path": "cnc/maps/axis-of-advance.oramap",
+     "offset": 2015561,
+     "length": 13327
+    },
+    {
+     "path": "cnc/maps/back-to-basics.oramap",
+     "offset": 2028888,
+     "length": 12007
+    },
+    {
+     "path": "cnc/maps/badland-ridges.oramap",
+     "offset": 2040895,
+     "length": 13721
+    },
+    {
+     "path": "cnc/maps/blood-and-sand.oramap",
+     "offset": 2054616,
+     "length": 24168
+    },
+    {
+     "path": "cnc/maps/blue-mountains.oramap",
+     "offset": 2078784,
+     "length": 9665
+    },
+    {
+     "path": "cnc/maps/blue-winter-1995.oramap",
+     "offset": 2088449,
+     "length": 10416
+    },
+    {
+     "path": "cnc/maps/break-of-day.oramap",
+     "offset": 2098865,
+     "length": 13639
+    },
+    {
+     "path": "cnc/maps/burning-hammer.oramap",
+     "offset": 2112504,
+     "length": 13536
+    },
+    {
+     "path": "cnc/maps/carters-ridge.oramap",
+     "offset": 2126040,
+     "length": 8470
+    },
+    {
+     "path": "cnc/maps/chill-out.oramap",
+     "offset": 2134510,
+     "length": 14330
+    },
+    {
+     "path": "cnc/maps/chokepoint.oramap",
+     "offset": 2148840,
+     "length": 3801
+    },
+    {
+     "path": "cnc/maps/collateral-chaos.oramap",
+     "offset": 2152641,
+     "length": 13219
+    },
+    {
+     "path": "cnc/maps/control-and-chaos.oramap",
+     "offset": 2165860,
+     "length": 14432
+    },
+    {
+     "path": "cnc/maps/crackpoint.oramap",
+     "offset": 2180292,
+     "length": 11983
+    },
+    {
+     "path": "cnc/maps/crossing-the-divide.oramap",
+     "offset": 2192275,
+     "length": 21718
+    },
+    {
+     "path": "cnc/maps/dead_in_motion_v4.Symm.oramap",
+     "offset": 2213993,
+     "length": 5767
+    },
+    {
+     "path": "cnc/maps/desert-3-wayz.oramap",
+     "offset": 2219760,
+     "length": 21688
+    },
+    {
+     "path": "cnc/maps/desert-invasion.oramap",
+     "offset": 2241448,
+     "length": 13069
+    },
+    {
+     "path": "cnc/maps/desert-mandarins.oramap",
+     "offset": 2254517,
+     "length": 10432
+    },
+    {
+     "path": "cnc/maps/desert-storm-3.oramap",
+     "offset": 2264949,
+     "length": 9304
+    },
+    {
+     "path": "cnc/maps/deserted-outpost.oramap",
+     "offset": 2274253,
+     "length": 14787
+    },
+    {
+     "path": "cnc/maps/deterring-democracy-plus.oramap",
+     "offset": 2289040,
+     "length": 8650
+    },
+    {
+     "path": "cnc/maps/deterring-democracy.oramap",
+     "offset": 2297690,
+     "length": 6629
+    },
+    {
+     "path": "cnc/maps/dualism.oramap",
+     "offset": 2304319,
+     "length": 7538
+    },
+    {
+     "path": "cnc/maps/east-vs-west-3.oramap",
+     "offset": 2311857,
+     "length": 4167
+    },
+    {
+     "path": "cnc/maps/elysian-expanse.oramap",
+     "offset": 2316024,
+     "length": 22905
+    },
+    {
+     "path": "cnc/maps/escalations.oramap",
+     "offset": 2338929,
+     "length": 9024
+    },
+    {
+     "path": "cnc/maps/fight-win-prevail.oramap",
+     "offset": 2347953,
+     "length": 12406
+    },
+    {
+     "path": "cnc/maps/fortresses-II-remastered.oramap",
+     "offset": 2360359,
+     "length": 17301
+    },
+    {
+     "path": "cnc/maps/frigid-pass.oramap",
+     "offset": 2377660,
+     "length": 8638
+    },
+    {
+     "path": "cnc/maps/haos-ridges-cnc.oramap",
+     "offset": 2386298,
+     "length": 8258
+    },
+    {
+     "path": "cnc/maps/hattrix.oramap",
+     "offset": 2394556,
+     "length": 6621
+    },
+    {
+     "path": "cnc/maps/hegemony-or-survival.oramap",
+     "offset": 2401177,
+     "length": 19116
+    },
+    {
+     "path": "cnc/maps/heroic-warriors.oramap",
+     "offset": 2420293,
+     "length": 14182
+    },
+    {
+     "path": "cnc/maps/island-duel.oramap",
+     "offset": 2434475,
+     "length": 8031
+    },
+    {
+     "path": "cnc/maps/kanes-revenge.oramap",
+     "offset": 2442506,
+     "length": 13249
+    },
+    {
+     "path": "cnc/maps/kolosseum.oramap",
+     "offset": 2455755,
+     "length": 20022
+    },
+    {
+     "path": "cnc/maps/lockdown.oramap",
+     "offset": 2475777,
+     "length": 20641
+    },
+    {
+     "path": "cnc/maps/manufacturing-consent.oramap",
+     "offset": 2496418,
+     "length": 10671
+    },
+    {
+     "path": "cnc/maps/master-alert.oramap",
+     "offset": 2507089,
+     "length": 16729
+    },
+    {
+     "path": "cnc/maps/matchpoint.oramap",
+     "offset": 2523818,
+     "length": 12364
+    },
+    {
+     "path": "cnc/maps/megaoutdoortrails-7v7.oramap",
+     "offset": 2536182,
+     "length": 36858
+    },
+    {
+     "path": "cnc/maps/model-200.oramap",
+     "offset": 2573040,
+     "length": 8562
+    },
+    {
+     "path": "cnc/maps/morbid-aimless-poseidon.oramap",
+     "offset": 2581602,
+     "length": 17597
+    },
+    {
+     "path": "cnc/maps/mountain-town-madness.oramap",
+     "offset": 2599199,
+     "length": 16293
+    },
+    {
+     "path": "cnc/maps/mt-nukebait.oramap",
+     "offset": 2615492,
+     "length": 6845
+    },
+    {
+     "path": "cnc/maps/order-of-battle.oramap",
+     "offset": 2622337,
+     "length": 18694
+    },
+    {
+     "path": "cnc/maps/ping-pong-bay.oramap",
+     "offset": 2641031,
+     "length": 9070
+    },
+    {
+     "path": "cnc/maps/pirates-and-emperors.oramap",
+     "offset": 2650101,
+     "length": 16029
+    },
+    {
+     "path": "cnc/maps/pressure-cnc.oramap",
+     "offset": 2666130,
+     "length": 12659
+    },
+    {
+     "path": "cnc/maps/reaching-out.oramap",
+     "offset": 2678789,
+     "length": 8627
+    },
+    {
+     "path": "cnc/maps/renegades.oramap",
+     "offset": 2687416,
+     "length": 21726
+    },
+    {
+     "path": "cnc/maps/riverside-frontline.oramap",
+     "offset": 2709142,
+     "length": 13983
+    },
+    {
+     "path": "cnc/maps/scorched-earth.oramap",
+     "offset": 2723125,
+     "length": 17965
+    },
+    {
+     "path": "cnc/maps/sustain.oramap",
+     "offset": 2741090,
+     "length": 8313
+    },
+    {
+     "path": "cnc/maps/tactical-advance.oramap",
+     "offset": 2749403,
+     "length": 20182
+    },
+    {
+     "path": "cnc/maps/tiberium-forest.oramap",
+     "offset": 2769585,
+     "length": 20547
+    },
+    {
+     "path": "cnc/maps/tiberium-garden-2.oramap",
+     "offset": 2790132,
+     "length": 7984
+    },
+    {
+     "path": "cnc/maps/tiberium-rift.oramap",
+     "offset": 2798116,
+     "length": 8474
+    },
+    {
+     "path": "cnc/maps/too-hot.oramap",
+     "offset": 2806590,
+     "length": 8269
+    },
+    {
+     "path": "cnc/maps/trial-of-possession.oramap",
+     "offset": 2814859,
+     "length": 23193
+    },
+    {
+     "path": "cnc/maps/triarchs-axiom.oramap",
+     "offset": 2838052,
+     "length": 23638
+    },
+    {
+     "path": "cnc/maps/twin-lakes.oramap",
+     "offset": 2861690,
+     "length": 21245
+    },
+    {
+     "path": "cnc/maps/two-ponds.oramap",
+     "offset": 2882935,
+     "length": 8104
+    },
+    {
+     "path": "cnc/maps/valley-of-gold-6p.oramap",
+     "offset": 2891039,
+     "length": 15660
+    },
+    {
+     "path": "cnc/maps/valley-of-gold-6v6.oramap",
+     "offset": 2906699,
+     "length": 19337
+    },
+    {
+     "path": "cnc/maps/valley-of-gold.oramap",
+     "offset": 2926036,
+     "length": 18358
+    },
+    {
+     "path": "cnc/maps/vectors-of-battle.oramap",
+     "offset": 2944394,
+     "length": 12525
+    },
+    {
+     "path": "cnc/maps/war-zone-x.oramap",
+     "offset": 2956919,
+     "length": 11419
+    },
+    {
+     "path": "cnc/maps/warchild.oramap",
+     "offset": 2968338,
+     "length": 27002
+    },
+    {
+     "path": "cnc/maps/warkraft.oramap",
+     "offset": 2995340,
+     "length": 12258
+    },
+    {
+     "path": "cnc/maps/x896.oramap",
+     "offset": 3007598,
+     "length": 7103
+    },
+    {
+     "path": "cnc/maps/year-501.oramap",
+     "offset": 3014701,
+     "length": 16756
+    },
+    {
+     "path": "cnc/maps/blank-shellmap/map.bin",
+     "offset": 3031457,
+     "length": 142
+    },
+    {
+     "path": "cnc/maps/blank-shellmap/map.png",
+     "offset": 3031599,
+     "length": 69
+    },
+    {
+     "path": "cnc/maps/blank-shellmap/map.yaml",
+     "offset": 3031668,
+     "length": 1534
+    },
+    {
+     "path": "cnc/maps/cnc64gdi01/cnc64gdi01.lua",
+     "offset": 3033202,
+     "length": 4231
+    },
+    {
+     "path": "cnc/maps/cnc64gdi01/map.bin",
+     "offset": 3037433,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/cnc64gdi01/map.ftl",
+     "offset": 3057930,
+     "length": 331
+    },
+    {
+     "path": "cnc/maps/cnc64gdi01/map.png",
+     "offset": 3058261,
+     "length": 11559
+    },
+    {
+     "path": "cnc/maps/cnc64gdi01/map.yaml",
+     "offset": 3069820,
+     "length": 11434
+    },
+    {
+     "path": "cnc/maps/cnc64gdi01/rules.yaml",
+     "offset": 3081254,
+     "length": 536
+    },
+    {
+     "path": "cnc/maps/desert-rats-cnc/map.bin",
+     "offset": 3081790,
+     "length": 25937
+    },
+    {
+     "path": "cnc/maps/desert-rats-cnc/map.png",
+     "offset": 3107727,
+     "length": 920
+    },
+    {
+     "path": "cnc/maps/desert-rats-cnc/map.yaml",
+     "offset": 3108647,
+     "length": 8698
+    },
+    {
+     "path": "cnc/maps/desert-rats-cnc/rules.yaml",
+     "offset": 3117345,
+     "length": 86
+    },
+    {
+     "path": "cnc/maps/eviction-notice/eviction-notice-AI.lua",
+     "offset": 3117431,
+     "length": 12920
+    },
+    {
+     "path": "cnc/maps/eviction-notice/eviction-notice.lua",
+     "offset": 3130351,
+     "length": 11119
+    },
+    {
+     "path": "cnc/maps/eviction-notice/map.bin",
+     "offset": 3141470,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/eviction-notice/map.ftl",
+     "offset": 3161967,
+     "length": 251
+    },
+    {
+     "path": "cnc/maps/eviction-notice/map.png",
+     "offset": 3162218,
+     "length": 5943
+    },
+    {
+     "path": "cnc/maps/eviction-notice/map.yaml",
+     "offset": 3168161,
+     "length": 10642
+    },
+    {
+     "path": "cnc/maps/eviction-notice/rules.yaml",
+     "offset": 3178803,
+     "length": 2120
+    },
+    {
+     "path": "cnc/maps/eviction-notice/weapons.yaml",
+     "offset": 3180923,
+     "length": 74
+    },
+    {
+     "path": "cnc/maps/funpark01/map.bin",
+     "offset": 3180997,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/funpark01/map.ftl",
+     "offset": 3201494,
+     "length": 165
+    },
+    {
+     "path": "cnc/maps/funpark01/map.png",
+     "offset": 3201659,
+     "length": 26207
+    },
+    {
+     "path": "cnc/maps/funpark01/map.yaml",
+     "offset": 3227866,
+     "length": 6941
+    },
+    {
+     "path": "cnc/maps/funpark01/rules.yaml",
+     "offset": 3234807,
+     "length": 1170
+    },
+    {
+     "path": "cnc/maps/funpark01/scj01ea.lua",
+     "offset": 3235977,
+     "length": 2472
+    },
+    {
+     "path": "cnc/maps/funpark01/weapons.yaml",
+     "offset": 3238449,
+     "length": 71
+    },
+    {
+     "path": "cnc/maps/gdi01/gdi01.lua",
+     "offset": 3238520,
+     "length": 2085
+    },
+    {
+     "path": "cnc/maps/gdi01/map.bin",
+     "offset": 3240605,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi01/map.ftl",
+     "offset": 3261102,
+     "length": 381
+    },
+    {
+     "path": "cnc/maps/gdi01/map.png",
+     "offset": 3261483,
+     "length": 47559
+    },
+    {
+     "path": "cnc/maps/gdi01/map.yaml",
+     "offset": 3309042,
+     "length": 3833
+    },
+    {
+     "path": "cnc/maps/gdi01/rules.yaml",
+     "offset": 3312875,
+     "length": 1391
+    },
+    {
+     "path": "cnc/maps/gdi01/weapons.yaml",
+     "offset": 3314266,
+     "length": 223
+    },
+    {
+     "path": "cnc/maps/gdi02/gdi02.lua",
+     "offset": 3314489,
+     "length": 2145
+    },
+    {
+     "path": "cnc/maps/gdi02/map.bin",
+     "offset": 3316634,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi02/map.ftl",
+     "offset": 3337131,
+     "length": 254
+    },
+    {
+     "path": "cnc/maps/gdi02/map.png",
+     "offset": 3337385,
+     "length": 47541
+    },
+    {
+     "path": "cnc/maps/gdi02/map.yaml",
+     "offset": 3384926,
+     "length": 9728
+    },
+    {
+     "path": "cnc/maps/gdi02/rules.yaml",
+     "offset": 3394654,
+     "length": 1397
+    },
+    {
+     "path": "cnc/maps/gdi03/gdi03.lua",
+     "offset": 3396051,
+     "length": 2865
+    },
+    {
+     "path": "cnc/maps/gdi03/map.bin",
+     "offset": 3398916,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi03/map.ftl",
+     "offset": 3419413,
+     "length": 255
+    },
+    {
+     "path": "cnc/maps/gdi03/map.png",
+     "offset": 3419668,
+     "length": 47451
+    },
+    {
+     "path": "cnc/maps/gdi03/map.yaml",
+     "offset": 3467119,
+     "length": 11172
+    },
+    {
+     "path": "cnc/maps/gdi03/rules.yaml",
+     "offset": 3478291,
+     "length": 1257
+    },
+    {
+     "path": "cnc/maps/gdi04a/gdi04a.lua",
+     "offset": 3479548,
+     "length": 4563
+    },
+    {
+     "path": "cnc/maps/gdi04a/map.bin",
+     "offset": 3484111,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi04a/map.ftl",
+     "offset": 3504608,
+     "length": 267
+    },
+    {
+     "path": "cnc/maps/gdi04a/map.png",
+     "offset": 3504875,
+     "length": 46712
+    },
+    {
+     "path": "cnc/maps/gdi04a/map.yaml",
+     "offset": 3551587,
+     "length": 7131
+    },
+    {
+     "path": "cnc/maps/gdi04a/rules.yaml",
+     "offset": 3558718,
+     "length": 323
+    },
+    {
+     "path": "cnc/maps/gdi04b/gdi04b.lua",
+     "offset": 3559041,
+     "length": 5344
+    },
+    {
+     "path": "cnc/maps/gdi04b/map.bin",
+     "offset": 3564385,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi04b/map.ftl",
+     "offset": 3584882,
+     "length": 267
+    },
+    {
+     "path": "cnc/maps/gdi04b/map.png",
+     "offset": 3585149,
+     "length": 46712
+    },
+    {
+     "path": "cnc/maps/gdi04b/map.yaml",
+     "offset": 3631861,
+     "length": 8376
+    },
+    {
+     "path": "cnc/maps/gdi04b/rules.yaml",
+     "offset": 3640237,
+     "length": 357
+    },
+    {
+     "path": "cnc/maps/gdi04c/gdi04c.lua",
+     "offset": 3640594,
+     "length": 3847
+    },
+    {
+     "path": "cnc/maps/gdi04c/map.bin",
+     "offset": 3644441,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi04c/map.ftl",
+     "offset": 3664938,
+     "length": 245
+    },
+    {
+     "path": "cnc/maps/gdi04c/map.png",
+     "offset": 3665183,
+     "length": 46700
+    },
+    {
+     "path": "cnc/maps/gdi04c/map.yaml",
+     "offset": 3711883,
+     "length": 12266
+    },
+    {
+     "path": "cnc/maps/gdi04c/rules.yaml",
+     "offset": 3724149,
+     "length": 942
+    },
+    {
+     "path": "cnc/maps/gdi04c/weapons.yaml",
+     "offset": 3725091,
+     "length": 105
+    },
+    {
+     "path": "cnc/maps/gdi05a/gdi05a.lua",
+     "offset": 3725196,
+     "length": 5968
+    },
+    {
+     "path": "cnc/maps/gdi05a/map.bin",
+     "offset": 3731164,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi05a/map.ftl",
+     "offset": 3751661,
+     "length": 294
+    },
+    {
+     "path": "cnc/maps/gdi05a/map.png",
+     "offset": 3751955,
+     "length": 39288
+    },
+    {
+     "path": "cnc/maps/gdi05a/map.yaml",
+     "offset": 3791243,
+     "length": 12217
+    },
+    {
+     "path": "cnc/maps/gdi05a/rules.yaml",
+     "offset": 3803460,
+     "length": 2531
+    },
+    {
+     "path": "cnc/maps/gdi05b/gdi05b.lua",
+     "offset": 3805991,
+     "length": 6886
+    },
+    {
+     "path": "cnc/maps/gdi05b/map.bin",
+     "offset": 3812877,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi05b/map.ftl",
+     "offset": 3833374,
+     "length": 294
+    },
+    {
+     "path": "cnc/maps/gdi05b/map.png",
+     "offset": 3833668,
+     "length": 39067
+    },
+    {
+     "path": "cnc/maps/gdi05b/map.yaml",
+     "offset": 3872735,
+     "length": 9841
+    },
+    {
+     "path": "cnc/maps/gdi05b/rules.yaml",
+     "offset": 3882576,
+     "length": 2014
+    },
+    {
+     "path": "cnc/maps/gdi05c/gdi05c.lua",
+     "offset": 3884590,
+     "length": 7373
+    },
+    {
+     "path": "cnc/maps/gdi05c/map.bin",
+     "offset": 3891963,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi05c/map.ftl",
+     "offset": 3912460,
+     "length": 294
+    },
+    {
+     "path": "cnc/maps/gdi05c/map.png",
+     "offset": 3912754,
+     "length": 47815
+    },
+    {
+     "path": "cnc/maps/gdi05c/map.yaml",
+     "offset": 3960569,
+     "length": 12223
+    },
+    {
+     "path": "cnc/maps/gdi05c/rules.yaml",
+     "offset": 3972792,
+     "length": 2604
+    },
+    {
+     "path": "cnc/maps/gdi06/gdi06.lua",
+     "offset": 3975396,
+     "length": 4952
+    },
+    {
+     "path": "cnc/maps/gdi06/map.bin",
+     "offset": 3980348,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi06/map.ftl",
+     "offset": 4000845,
+     "length": 167
+    },
+    {
+     "path": "cnc/maps/gdi06/map.png",
+     "offset": 4001012,
+     "length": 40137
+    },
+    {
+     "path": "cnc/maps/gdi06/map.yaml",
+     "offset": 4041149,
+     "length": 16282
+    },
+    {
+     "path": "cnc/maps/gdi06/music.yaml",
+     "offset": 4057431,
+     "length": 42
+    },
+    {
+     "path": "cnc/maps/gdi06/rain-ambient.aud",
+     "offset": 4057473,
+     "length": 151243
+    },
+    {
+     "path": "cnc/maps/gdi06/rules.yaml",
+     "offset": 4208716,
+     "length": 1727
+    },
+    {
+     "path": "cnc/maps/gdi07/gdi07.lua",
+     "offset": 4210443,
+     "length": 5116
+    },
+    {
+     "path": "cnc/maps/gdi07/map.bin",
+     "offset": 4215559,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi07/map.ftl",
+     "offset": 4236056,
+     "length": 244
+    },
+    {
+     "path": "cnc/maps/gdi07/map.png",
+     "offset": 4236300,
+     "length": 40304
+    },
+    {
+     "path": "cnc/maps/gdi07/map.yaml",
+     "offset": 4276604,
+     "length": 16488
+    },
+    {
+     "path": "cnc/maps/gdi07/rules.yaml",
+     "offset": 4293092,
+     "length": 1425
+    },
+    {
+     "path": "cnc/maps/gdi08a/gdi08a-AI.lua",
+     "offset": 4294517,
+     "length": 5878
+    },
+    {
+     "path": "cnc/maps/gdi08a/gdi08a.lua",
+     "offset": 4300395,
+     "length": 5432
+    },
+    {
+     "path": "cnc/maps/gdi08a/map.bin",
+     "offset": 4305827,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi08a/map.ftl",
+     "offset": 4326324,
+     "length": 304
+    },
+    {
+     "path": "cnc/maps/gdi08a/map.png",
+     "offset": 4326628,
+     "length": 40464
+    },
+    {
+     "path": "cnc/maps/gdi08a/map.yaml",
+     "offset": 4367092,
+     "length": 14130
+    },
+    {
+     "path": "cnc/maps/gdi08a/rules.yaml",
+     "offset": 4381222,
+     "length": 1981
+    },
+    {
+     "path": "cnc/maps/gdi08b/gdi08b-AI.lua",
+     "offset": 4383203,
+     "length": 9463
+    },
+    {
+     "path": "cnc/maps/gdi08b/gdi08b.lua",
+     "offset": 4392666,
+     "length": 7792
+    },
+    {
+     "path": "cnc/maps/gdi08b/map.bin",
+     "offset": 4400458,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi08b/map.ftl",
+     "offset": 4420955,
+     "length": 238
+    },
+    {
+     "path": "cnc/maps/gdi08b/map.png",
+     "offset": 4421193,
+     "length": 40656
+    },
+    {
+     "path": "cnc/maps/gdi08b/map.yaml",
+     "offset": 4461849,
+     "length": 16810
+    },
+    {
+     "path": "cnc/maps/gdi08b/rules.yaml",
+     "offset": 4478659,
+     "length": 2684
+    },
+    {
+     "path": "cnc/maps/gdi09/gdi09-AI.lua",
+     "offset": 4481343,
+     "length": 6270
+    },
+    {
+     "path": "cnc/maps/gdi09/gdi09.lua",
+     "offset": 4487613,
+     "length": 6738
+    },
+    {
+     "path": "cnc/maps/gdi09/map.bin",
+     "offset": 4494351,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/gdi09/map.ftl",
+     "offset": 4514848,
+     "length": 321
+    },
+    {
+     "path": "cnc/maps/gdi09/map.png",
+     "offset": 4515169,
+     "length": 40108
+    },
+    {
+     "path": "cnc/maps/gdi09/map.yaml",
+     "offset": 4555277,
+     "length": 12722
+    },
+    {
+     "path": "cnc/maps/gdi09/rules.yaml",
+     "offset": 4567999,
+     "length": 1874
+    },
+    {
+     "path": "cnc/maps/gdi09/weapons.yaml",
+     "offset": 4569873,
+     "length": 223
+    },
+    {
+     "path": "cnc/maps/nod01/map.bin",
+     "offset": 4570096,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod01/map.ftl",
+     "offset": 4590593,
+     "length": 301
+    },
+    {
+     "path": "cnc/maps/nod01/map.png",
+     "offset": 4590894,
+     "length": 39580
+    },
+    {
+     "path": "cnc/maps/nod01/map.yaml",
+     "offset": 4630474,
+     "length": 3880
+    },
+    {
+     "path": "cnc/maps/nod01/nod01.lua",
+     "offset": 4634354,
+     "length": 2673
+    },
+    {
+     "path": "cnc/maps/nod01/rules.yaml",
+     "offset": 4637027,
+     "length": 730
+    },
+    {
+     "path": "cnc/maps/nod02a/map.bin",
+     "offset": 4637757,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod02a/map.ftl",
+     "offset": 4658254,
+     "length": 328
+    },
+    {
+     "path": "cnc/maps/nod02a/map.png",
+     "offset": 4658582,
+     "length": 36415
+    },
+    {
+     "path": "cnc/maps/nod02a/map.yaml",
+     "offset": 4694997,
+     "length": 3842
+    },
+    {
+     "path": "cnc/maps/nod02a/nod02a.lua",
+     "offset": 4698839,
+     "length": 2955
+    },
+    {
+     "path": "cnc/maps/nod02a/rules.yaml",
+     "offset": 4701794,
+     "length": 1491
+    },
+    {
+     "path": "cnc/maps/nod02b/map.bin",
+     "offset": 4703285,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod02b/map.ftl",
+     "offset": 4723782,
+     "length": 328
+    },
+    {
+     "path": "cnc/maps/nod02b/map.png",
+     "offset": 4724110,
+     "length": 37637
+    },
+    {
+     "path": "cnc/maps/nod02b/map.yaml",
+     "offset": 4761747,
+     "length": 3224
+    },
+    {
+     "path": "cnc/maps/nod02b/nod02b.lua",
+     "offset": 4764971,
+     "length": 4069
+    },
+    {
+     "path": "cnc/maps/nod02b/rules.yaml",
+     "offset": 4769040,
+     "length": 2563
+    },
+    {
+     "path": "cnc/maps/nod03a/map.bin",
+     "offset": 4771603,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod03a/map.ftl",
+     "offset": 4792100,
+     "length": 257
+    },
+    {
+     "path": "cnc/maps/nod03a/map.png",
+     "offset": 4792357,
+     "length": 39318
+    },
+    {
+     "path": "cnc/maps/nod03a/map.yaml",
+     "offset": 4831675,
+     "length": 7061
+    },
+    {
+     "path": "cnc/maps/nod03a/nod03a.lua",
+     "offset": 4838736,
+     "length": 2703
+    },
+    {
+     "path": "cnc/maps/nod03a/rules.yaml",
+     "offset": 4841439,
+     "length": 1333
+    },
+    {
+     "path": "cnc/maps/nod03b/map.bin",
+     "offset": 4842772,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod03b/map.ftl",
+     "offset": 4863269,
+     "length": 257
+    },
+    {
+     "path": "cnc/maps/nod03b/map.png",
+     "offset": 4863526,
+     "length": 39475
+    },
+    {
+     "path": "cnc/maps/nod03b/map.yaml",
+     "offset": 4903001,
+     "length": 7603
+    },
+    {
+     "path": "cnc/maps/nod03b/nod03b.lua",
+     "offset": 4910604,
+     "length": 3333
+    },
+    {
+     "path": "cnc/maps/nod03b/rules.yaml",
+     "offset": 4913937,
+     "length": 1323
+    },
+    {
+     "path": "cnc/maps/nod04a/map.bin",
+     "offset": 4915260,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod04a/map.ftl",
+     "offset": 4935757,
+     "length": 232
+    },
+    {
+     "path": "cnc/maps/nod04a/map.png",
+     "offset": 4935989,
+     "length": 36744
+    },
+    {
+     "path": "cnc/maps/nod04a/map.yaml",
+     "offset": 4972733,
+     "length": 7929
+    },
+    {
+     "path": "cnc/maps/nod04a/nod04a.lua",
+     "offset": 4980662,
+     "length": 5047
+    },
+    {
+     "path": "cnc/maps/nod04a/rules.yaml",
+     "offset": 4985709,
+     "length": 412
+    },
+    {
+     "path": "cnc/maps/nod04b/map.bin",
+     "offset": 4986121,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod04b/map.ftl",
+     "offset": 5006618,
+     "length": 273
+    },
+    {
+     "path": "cnc/maps/nod04b/map.png",
+     "offset": 5006891,
+     "length": 37468
+    },
+    {
+     "path": "cnc/maps/nod04b/map.yaml",
+     "offset": 5044359,
+     "length": 8613
+    },
+    {
+     "path": "cnc/maps/nod04b/nod04b.lua",
+     "offset": 5052972,
+     "length": 8853
+    },
+    {
+     "path": "cnc/maps/nod04b/rules.yaml",
+     "offset": 5061825,
+     "length": 1804
+    },
+    {
+     "path": "cnc/maps/nod05/map.bin",
+     "offset": 5063629,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod05/map.ftl",
+     "offset": 5084126,
+     "length": 251
+    },
+    {
+     "path": "cnc/maps/nod05/map.png",
+     "offset": 5084377,
+     "length": 36079
+    },
+    {
+     "path": "cnc/maps/nod05/map.yaml",
+     "offset": 5120456,
+     "length": 6188
+    },
+    {
+     "path": "cnc/maps/nod05/nod05.lua",
+     "offset": 5126644,
+     "length": 7381
+    },
+    {
+     "path": "cnc/maps/nod05/rules.yaml",
+     "offset": 5134025,
+     "length": 1928
+    },
+    {
+     "path": "cnc/maps/nod06a/map.bin",
+     "offset": 5135953,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod06a/map.ftl",
+     "offset": 5156450,
+     "length": 498
+    },
+    {
+     "path": "cnc/maps/nod06a/map.png",
+     "offset": 5156948,
+     "length": 34525
+    },
+    {
+     "path": "cnc/maps/nod06a/map.yaml",
+     "offset": 5191473,
+     "length": 10825
+    },
+    {
+     "path": "cnc/maps/nod06a/nod06a.lua",
+     "offset": 5202298,
+     "length": 7180
+    },
+    {
+     "path": "cnc/maps/nod06a/rules.yaml",
+     "offset": 5209478,
+     "length": 748
+    },
+    {
+     "path": "cnc/maps/nod06b/map.bin",
+     "offset": 5210226,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod06b/map.ftl",
+     "offset": 5230723,
+     "length": 498
+    },
+    {
+     "path": "cnc/maps/nod06b/map.png",
+     "offset": 5231221,
+     "length": 34747
+    },
+    {
+     "path": "cnc/maps/nod06b/map.yaml",
+     "offset": 5265968,
+     "length": 9803
+    },
+    {
+     "path": "cnc/maps/nod06b/nod06b.lua",
+     "offset": 5275771,
+     "length": 7200
+    },
+    {
+     "path": "cnc/maps/nod06b/rules.yaml",
+     "offset": 5282971,
+     "length": 936
+    },
+    {
+     "path": "cnc/maps/nod06c/map.bin",
+     "offset": 5283907,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod06c/map.ftl",
+     "offset": 5304404,
+     "length": 287
+    },
+    {
+     "path": "cnc/maps/nod06c/map.png",
+     "offset": 5304691,
+     "length": 34264
+    },
+    {
+     "path": "cnc/maps/nod06c/map.yaml",
+     "offset": 5338955,
+     "length": 7607
+    },
+    {
+     "path": "cnc/maps/nod06c/nod06c.lua",
+     "offset": 5346562,
+     "length": 5957
+    },
+    {
+     "path": "cnc/maps/nod06c/rules.yaml",
+     "offset": 5352519,
+     "length": 1908
+    },
+    {
+     "path": "cnc/maps/nod07a/map.bin",
+     "offset": 5354427,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod07a/map.ftl",
+     "offset": 5374924,
+     "length": 342
+    },
+    {
+     "path": "cnc/maps/nod07a/map.png",
+     "offset": 5375266,
+     "length": 34605
+    },
+    {
+     "path": "cnc/maps/nod07a/map.yaml",
+     "offset": 5409871,
+     "length": 10037
+    },
+    {
+     "path": "cnc/maps/nod07a/nod07a-AI.lua",
+     "offset": 5419908,
+     "length": 5136
+    },
+    {
+     "path": "cnc/maps/nod07a/nod07a.lua",
+     "offset": 5425044,
+     "length": 9043
+    },
+    {
+     "path": "cnc/maps/nod07a/rules.yaml",
+     "offset": 5434087,
+     "length": 1858
+    },
+    {
+     "path": "cnc/maps/nod07a/weapons.yaml",
+     "offset": 5435945,
+     "length": 39
+    },
+    {
+     "path": "cnc/maps/nod07b/map.bin",
+     "offset": 5435984,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod07b/map.ftl",
+     "offset": 5456481,
+     "length": 342
+    },
+    {
+     "path": "cnc/maps/nod07b/map.png",
+     "offset": 5456823,
+     "length": 34527
+    },
+    {
+     "path": "cnc/maps/nod07b/map.yaml",
+     "offset": 5491350,
+     "length": 15535
+    },
+    {
+     "path": "cnc/maps/nod07b/nod07b-AI.lua",
+     "offset": 5506885,
+     "length": 5261
+    },
+    {
+     "path": "cnc/maps/nod07b/nod07b.lua",
+     "offset": 5512146,
+     "length": 8707
+    },
+    {
+     "path": "cnc/maps/nod07b/rules.yaml",
+     "offset": 5520853,
+     "length": 1640
+    },
+    {
+     "path": "cnc/maps/nod07c/map.bin",
+     "offset": 5522493,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod07c/map.ftl",
+     "offset": 5542990,
+     "length": 340
+    },
+    {
+     "path": "cnc/maps/nod07c/map.png",
+     "offset": 5543330,
+     "length": 34709
+    },
+    {
+     "path": "cnc/maps/nod07c/map.yaml",
+     "offset": 5578039,
+     "length": 12803
+    },
+    {
+     "path": "cnc/maps/nod07c/nod07c.lua",
+     "offset": 5590842,
+     "length": 5640
+    },
+    {
+     "path": "cnc/maps/nod07c/rules.yaml",
+     "offset": 5596482,
+     "length": 2237
+    },
+    {
+     "path": "cnc/maps/nod08a/map.bin",
+     "offset": 5598719,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod08a/map.ftl",
+     "offset": 5619216,
+     "length": 292
+    },
+    {
+     "path": "cnc/maps/nod08a/map.png",
+     "offset": 5619508,
+     "length": 33921
+    },
+    {
+     "path": "cnc/maps/nod08a/map.yaml",
+     "offset": 5653429,
+     "length": 9916
+    },
+    {
+     "path": "cnc/maps/nod08a/nod08a-AI.lua",
+     "offset": 5663345,
+     "length": 5701
+    },
+    {
+     "path": "cnc/maps/nod08a/nod08a.lua",
+     "offset": 5669046,
+     "length": 6691
+    },
+    {
+     "path": "cnc/maps/nod08a/rules.yaml",
+     "offset": 5675737,
+     "length": 2527
+    },
+    {
+     "path": "cnc/maps/nod08a/weapons.yaml",
+     "offset": 5678264,
+     "length": 131
+    },
+    {
+     "path": "cnc/maps/nod08b/map.bin",
+     "offset": 5678395,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod08b/map.ftl",
+     "offset": 5698892,
+     "length": 292
+    },
+    {
+     "path": "cnc/maps/nod08b/map.png",
+     "offset": 5699184,
+     "length": 34174
+    },
+    {
+     "path": "cnc/maps/nod08b/map.yaml",
+     "offset": 5733358,
+     "length": 12456
+    },
+    {
+     "path": "cnc/maps/nod08b/nod08b-AI.lua",
+     "offset": 5745814,
+     "length": 5760
+    },
+    {
+     "path": "cnc/maps/nod08b/nod08b.lua",
+     "offset": 5751574,
+     "length": 6525
+    },
+    {
+     "path": "cnc/maps/nod08b/rules.yaml",
+     "offset": 5758099,
+     "length": 3042
+    },
+    {
+     "path": "cnc/maps/nod08b/weapons.yaml",
+     "offset": 5761141,
+     "length": 131
+    },
+    {
+     "path": "cnc/maps/nod09/map.bin",
+     "offset": 5761272,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod09/map.ftl",
+     "offset": 5781769,
+     "length": 234
+    },
+    {
+     "path": "cnc/maps/nod09/map.png",
+     "offset": 5782003,
+     "length": 33188
+    },
+    {
+     "path": "cnc/maps/nod09/map.yaml",
+     "offset": 5815191,
+     "length": 14358
+    },
+    {
+     "path": "cnc/maps/nod09/nod09-AI.lua",
+     "offset": 5829549,
+     "length": 5713
+    },
+    {
+     "path": "cnc/maps/nod09/nod09.lua",
+     "offset": 5835262,
+     "length": 8754
+    },
+    {
+     "path": "cnc/maps/nod09/rules.yaml",
+     "offset": 5844016,
+     "length": 2819
+    },
+    {
+     "path": "cnc/maps/nod09/weapons.yaml",
+     "offset": 5846835,
+     "length": 25
+    },
+    {
+     "path": "cnc/maps/nod10a/map.bin",
+     "offset": 5846860,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod10a/map.ftl",
+     "offset": 5867357,
+     "length": 205
+    },
+    {
+     "path": "cnc/maps/nod10a/map.png",
+     "offset": 5867562,
+     "length": 9465
+    },
+    {
+     "path": "cnc/maps/nod10a/map.yaml",
+     "offset": 5877027,
+     "length": 20957
+    },
+    {
+     "path": "cnc/maps/nod10a/nod10a.lua",
+     "offset": 5897984,
+     "length": 2141
+    },
+    {
+     "path": "cnc/maps/nod10a/rules.yaml",
+     "offset": 5900125,
+     "length": 1133
+    },
+    {
+     "path": "cnc/maps/nod10b/map.bin",
+     "offset": 5901258,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/nod10b/map.ftl",
+     "offset": 5921755,
+     "length": 252
+    },
+    {
+     "path": "cnc/maps/nod10b/map.png",
+     "offset": 5922007,
+     "length": 9515
+    },
+    {
+     "path": "cnc/maps/nod10b/map.yaml",
+     "offset": 5931522,
+     "length": 11837
+    },
+    {
+     "path": "cnc/maps/nod10b/nod10b.lua",
+     "offset": 5943359,
+     "length": 3709
+    },
+    {
+     "path": "cnc/maps/nod10b/rules.yaml",
+     "offset": 5947068,
+     "length": 1008
+    },
+    {
+     "path": "cnc/maps/the-hot-box/map.bin",
+     "offset": 5948076,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/the-hot-box/map.png",
+     "offset": 5968573,
+     "length": 273
+    },
+    {
+     "path": "cnc/maps/the-hot-box/map.yaml",
+     "offset": 5968846,
+     "length": 3347
+    },
+    {
+     "path": "cnc/maps/the-hot-box/rules.yaml",
+     "offset": 5972193,
+     "length": 1654
+    },
+    {
+     "path": "cnc/maps/the-tiberium-strain/map.bin",
+     "offset": 5973847,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/the-tiberium-strain/map.ftl",
+     "offset": 5994344,
+     "length": 308
+    },
+    {
+     "path": "cnc/maps/the-tiberium-strain/map.png",
+     "offset": 5994652,
+     "length": 5943
+    },
+    {
+     "path": "cnc/maps/the-tiberium-strain/map.yaml",
+     "offset": 6000595,
+     "length": 23009
+    },
+    {
+     "path": "cnc/maps/the-tiberium-strain/rules.yaml",
+     "offset": 6023604,
+     "length": 1809
+    },
+    {
+     "path": "cnc/maps/the-tiberium-strain/the-tiberium-strain.lua",
+     "offset": 6025413,
+     "length": 20221
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/map.bin",
+     "offset": 6045634,
+     "length": 20497
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/map.ftl",
+     "offset": 6066131,
+     "length": 336
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/map.png",
+     "offset": 6066467,
+     "length": 11559
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/map.yaml",
+     "offset": 6078026,
+     "length": 17850
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/rules.yaml",
+     "offset": 6095876,
+     "length": 2417
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/twist-of-fate-AI.lua",
+     "offset": 6098293,
+     "length": 19745
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/twist-of-fate.lua",
+     "offset": 6118038,
+     "length": 10497
+    },
+    {
+     "path": "cnc/maps/twist-of-fate/weapons.yaml",
+     "offset": 6128535,
+     "length": 74
+    },
+    {
+     "path": "cnc/rules/ai.yaml",
+     "offset": 6128609,
+     "length": 8727
+    },
+    {
+     "path": "cnc/rules/aircraft.yaml",
+     "offset": 6137336,
+     "length": 6441
+    },
+    {
+     "path": "cnc/rules/campaign-maprules.yaml",
+     "offset": 6143777,
+     "length": 2565
+    },
+    {
+     "path": "cnc/rules/campaign-palettes.yaml",
+     "offset": 6146342,
+     "length": 2848
+    },
+    {
+     "path": "cnc/rules/campaign-tooltips.yaml",
+     "offset": 6149190,
+     "length": 1371
+    },
+    {
+     "path": "cnc/rules/civilian-desert.yaml",
+     "offset": 6150561,
+     "length": 6830
+    },
+    {
+     "path": "cnc/rules/civilian.yaml",
+     "offset": 6157391,
+     "length": 9011
+    },
+    {
+     "path": "cnc/rules/defaults.yaml",
+     "offset": 6166402,
+     "length": 26417
+    },
+    {
+     "path": "cnc/rules/disable-player-experience.yaml",
+     "offset": 6192819,
+     "length": 307
+    },
+    {
+     "path": "cnc/rules/husks.yaml",
+     "offset": 6193126,
+     "length": 2523
+    },
+    {
+     "path": "cnc/rules/infantry.yaml",
+     "offset": 6195649,
+     "length": 7458
+    },
+    {
+     "path": "cnc/rules/map-generators.yaml",
+     "offset": 6203107,
+     "length": 13609
+    },
+    {
+     "path": "cnc/rules/misc.yaml",
+     "offset": 6216716,
+     "length": 2513
+    },
+    {
+     "path": "cnc/rules/palettes.yaml",
+     "offset": 6219229,
+     "length": 2736
+    },
+    {
+     "path": "cnc/rules/player.yaml",
+     "offset": 6221965,
+     "length": 2426
+    },
+    {
+     "path": "cnc/rules/ships.yaml",
+     "offset": 6224391,
+     "length": 1802
+    },
+    {
+     "path": "cnc/rules/structures.yaml",
+     "offset": 6226193,
+     "length": 30282
+    },
+    {
+     "path": "cnc/rules/tech.yaml",
+     "offset": 6256475,
+     "length": 3445
+    },
+    {
+     "path": "cnc/rules/trees.yaml",
+     "offset": 6259920,
+     "length": 6534
+    },
+    {
+     "path": "cnc/rules/vehicles.yaml",
+     "offset": 6266454,
+     "length": 17740
+    },
+    {
+     "path": "cnc/rules/world.yaml",
+     "offset": 6284194,
+     "length": 7026
+    },
+    {
+     "path": "cnc/scripts/campaign.lua",
+     "offset": 6291220,
+     "length": 6489
+    },
+    {
+     "path": "cnc/sequences/aircraft.yaml",
+     "offset": 6297709,
+     "length": 1059
+    },
+    {
+     "path": "cnc/sequences/campaign.yaml",
+     "offset": 6298768,
+     "length": 555
+    },
+    {
+     "path": "cnc/sequences/civilian.yaml",
+     "offset": 6299323,
+     "length": 1797
+    },
+    {
+     "path": "cnc/sequences/decorations.yaml",
+     "offset": 6301120,
+     "length": 12833
+    },
+    {
+     "path": "cnc/sequences/funpark.yaml",
+     "offset": 6313953,
+     "length": 985
+    },
+    {
+     "path": "cnc/sequences/infantry.yaml",
+     "offset": 6314938,
+     "length": 10233
+    },
+    {
+     "path": "cnc/sequences/misc.yaml",
+     "offset": 6325171,
+     "length": 12045
+    },
+    {
+     "path": "cnc/sequences/structures.yaml",
+     "offset": 6337216,
+     "length": 10258
+    },
+    {
+     "path": "cnc/sequences/vehicles.yaml",
+     "offset": 6347474,
+     "length": 6078
+    },
+    {
+     "path": "cnc/tilesets/desert.yaml",
+     "offset": 6353552,
+     "length": 50192
+    },
+    {
+     "path": "cnc/tilesets/snow.yaml",
+     "offset": 6403744,
+     "length": 42776
+    },
+    {
+     "path": "cnc/tilesets/temperat.yaml",
+     "offset": 6446520,
+     "length": 42778
+    },
+    {
+     "path": "cnc/tilesets/winter.yaml",
+     "offset": 6489298,
+     "length": 43296
+    },
+    {
+     "path": "cnc/uibits/chrome-2x.png",
+     "offset": 6532594,
+     "length": 426352
+    },
+    {
+     "path": "cnc/uibits/chrome-3x.png",
+     "offset": 6958946,
+     "length": 761920
+    },
+    {
+     "path": "cnc/uibits/chrome.png",
+     "offset": 7720866,
+     "length": 174615
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/a10.png",
+     "offset": 7895481,
+     "length": 94772
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/afld.png",
+     "offset": 7990253,
+     "length": 192294
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/apc.png",
+     "offset": 8182547,
+     "length": 160963
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/arty.png",
+     "offset": 8343510,
+     "length": 268887
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/atwr.png",
+     "offset": 8612397,
+     "length": 245457
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/bggy.png",
+     "offset": 8857854,
+     "length": 232295
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/bike.png",
+     "offset": 9090149,
+     "length": 292112
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/boat.png",
+     "offset": 9382261,
+     "length": 146441
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/brik.png",
+     "offset": 9528702,
+     "length": 245490
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/c17.png",
+     "offset": 9774192,
+     "length": 99113
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/cycl.png",
+     "offset": 9873305,
+     "length": 261144
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/default.png",
+     "offset": 10134449,
+     "length": 102832
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/e1.png",
+     "offset": 10237281,
+     "length": 168146
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/e2.png",
+     "offset": 10405427,
+     "length": 159738
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/e3.png",
+     "offset": 10565165,
+     "length": 190007
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/e4.png",
+     "offset": 10755172,
+     "length": 163914
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/e5.png",
+     "offset": 10919086,
+     "length": 204446
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/e6.png",
+     "offset": 11123532,
+     "length": 137946
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/eye.png",
+     "offset": 11261478,
+     "length": 76018
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/fact.png",
+     "offset": 11337496,
+     "length": 200691
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/fix.png",
+     "offset": 11538187,
+     "length": 206391
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/ftnk.png",
+     "offset": 11744578,
+     "length": 176907
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/gtwr.png",
+     "offset": 11921485,
+     "length": 190194
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/gun.png",
+     "offset": 12111679,
+     "length": 350804
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/hand.png",
+     "offset": 12462483,
+     "length": 125636
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/harv.png",
+     "offset": 12588119,
+     "length": 244724
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/heli.png",
+     "offset": 12832843,
+     "length": 167586
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/hpad.png",
+     "offset": 13000429,
+     "length": 194800
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/hq.png",
+     "offset": 13195229,
+     "length": 93610
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/htnk.png",
+     "offset": 13288839,
+     "length": 158728
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/jeep.png",
+     "offset": 13447567,
+     "length": 132567
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/lst.png",
+     "offset": 13580134,
+     "length": 105533
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/ltnk.png",
+     "offset": 13685667,
+     "length": 167735
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/mcv.png",
+     "offset": 13853402,
+     "length": 241036
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/mhq.png",
+     "offset": 14094438,
+     "length": 236470
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/mlrs.png",
+     "offset": 14330908,
+     "length": 114834
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/msam.png",
+     "offset": 14445742,
+     "length": 151320
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/mtnk.png",
+     "offset": 14597062,
+     "length": 277385
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/nuk2.png",
+     "offset": 14874447,
+     "length": 109404
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/nuke.png",
+     "offset": 14983851,
+     "length": 194880
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/obli.png",
+     "offset": 15178731,
+     "length": 109414
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/orca.png",
+     "offset": 15288145,
+     "length": 278360
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/proc.png",
+     "offset": 15566505,
+     "length": 133970
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/pvice.png",
+     "offset": 15700475,
+     "length": 165574
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/pyle.png",
+     "offset": 15866049,
+     "length": 210065
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/rmbo.png",
+     "offset": 16076114,
+     "length": 154012
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/sam.png",
+     "offset": 16230126,
+     "length": 229404
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/sbag.png",
+     "offset": 16459530,
+     "length": 251169
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/scanlines.png",
+     "offset": 16710699,
+     "length": 11883
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/silo.png",
+     "offset": 16722582,
+     "length": 145173
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/stnk.png",
+     "offset": 16867755,
+     "length": 198838
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/tmpl.png",
+     "offset": 17066593,
+     "length": 201978
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/tran.png",
+     "offset": 17268571,
+     "length": 156769
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/truck.png",
+     "offset": 17425340,
+     "length": 258657
+    },
+    {
+     "path": "cnc/uibits/encyclopedia/weap.png",
+     "offset": 17683997,
+     "length": 190828
+    },
+    {
+     "path": "cnc/weapons/ballistics.yaml",
+     "offset": 17874825,
+     "length": 2047
+    },
+    {
+     "path": "cnc/weapons/explosions.yaml",
+     "offset": 17876872,
+     "length": 3357
+    },
+    {
+     "path": "cnc/weapons/missiles.yaml",
+     "offset": 17880229,
+     "length": 5596
+    },
+    {
+     "path": "cnc/weapons/other.yaml",
+     "offset": 17885825,
+     "length": 2730
+    },
+    {
+     "path": "cnc/weapons/smallcaliber.yaml",
+     "offset": 17888555,
+     "length": 3321
+    },
+    {
+     "path": "cnc/weapons/superweapons.yaml",
+     "offset": 17891876,
+     "length": 2979
+    },
+    {
+     "path": "common/FreeSans.ttf",
+     "offset": 17894855,
+     "length": 568896
+    },
+    {
+     "path": "common/FreeSansBold.ttf",
+     "offset": 18463751,
+     "length": 283180
+    },
+    {
+     "path": "common/hidden-map-preview.png",
+     "offset": 18746931,
+     "length": 10205
+    },
+    {
+     "path": "common/metrics.yaml",
+     "offset": 18757136,
+     "length": 1728
+    },
+    {
+     "path": "common/chrome/assetbrowser.yaml",
+     "offset": 18758864,
+     "length": 4504
+    },
+    {
+     "path": "common/chrome/color-picker.yaml",
+     "offset": 18763368,
+     "length": 2830
+    },
+    {
+     "path": "common/chrome/confirmation-dialogs.yaml",
+     "offset": 18766198,
+     "length": 2205
+    },
+    {
+     "path": "common/chrome/connection.yaml",
+     "offset": 18768403,
+     "length": 3134
+    },
+    {
+     "path": "common/chrome/credits.yaml",
+     "offset": 18771537,
+     "length": 976
+    },
+    {
+     "path": "common/chrome/dropdowns.yaml",
+     "offset": 18772513,
+     "length": 4159
+    },
+    {
+     "path": "common/chrome/editor.yaml",
+     "offset": 18776672,
+     "length": 25455
+    },
+    {
+     "path": "common/chrome/gamesave-browser.yaml",
+     "offset": 18802127,
+     "length": 4597
+    },
+    {
+     "path": "common/chrome/gamesave-loading.yaml",
+     "offset": 18806724,
+     "length": 837
+    },
+    {
+     "path": "common/chrome/ingame-chat.yaml",
+     "offset": 18807561,
+     "length": 1480
+    },
+    {
+     "path": "common/chrome/ingame-debug-hpf.yaml",
+     "offset": 18809041,
+     "length": 391
+    },
+    {
+     "path": "common/chrome/ingame-debug.yaml",
+     "offset": 18809432,
+     "length": 8292
+    },
+    {
+     "path": "common/chrome/ingame-debuginfo.yaml",
+     "offset": 18817724,
+     "length": 230
+    },
+    {
+     "path": "common/chrome/ingame-fmvplayer.yaml",
+     "offset": 18817954,
+     "length": 184
+    },
+    {
+     "path": "common/chrome/ingame-info-lobby-options.yaml",
+     "offset": 18818138,
+     "length": 1569
+    },
+    {
+     "path": "common/chrome/ingame-info.yaml",
+     "offset": 18819707,
+     "length": 2488
+    },
+    {
+     "path": "common/chrome/ingame-infobriefing.yaml",
+     "offset": 18822195,
+     "length": 618
+    },
+    {
+     "path": "common/chrome/ingame-infochat.yaml",
+     "offset": 18822813,
+     "length": 833
+    },
+    {
+     "path": "common/chrome/ingame-infoobjectives.yaml",
+     "offset": 18823646,
+     "length": 873
+    },
+    {
+     "path": "common/chrome/ingame-infoscripterror.yaml",
+     "offset": 18824519,
+     "length": 755
+    },
+    {
+     "path": "common/chrome/ingame-infostats.yaml",
+     "offset": 18825274,
+     "length": 3999
+    },
+    {
+     "path": "common/chrome/ingame-menu.yaml",
+     "offset": 18829273,
+     "length": 1140
+    },
+    {
+     "path": "common/chrome/ingame-perf.yaml",
+     "offset": 18830413,
+     "length": 401
+    },
+    {
+     "path": "common/chrome/ingame-transients.yaml",
+     "offset": 18830814,
+     "length": 304
+    },
+    {
+     "path": "common/chrome/ingame.yaml",
+     "offset": 18831118,
+     "length": 2533
+    },
+    {
+     "path": "common/chrome/load-game-browser.yaml",
+     "offset": 18833651,
+     "length": 6640
+    },
+    {
+     "path": "common/chrome/lobby-kickdialogs.yaml",
+     "offset": 18840291,
+     "length": 2775
+    },
+    {
+     "path": "common/chrome/lobby-mappreview.yaml",
+     "offset": 18843066,
+     "length": 5355
+    },
+    {
+     "path": "common/chrome/lobby-music.yaml",
+     "offset": 18848421,
+     "length": 3837
+    },
+    {
+     "path": "common/chrome/lobby-options.yaml",
+     "offset": 18852258,
+     "length": 2206
+    },
+    {
+     "path": "common/chrome/lobby-players.yaml",
+     "offset": 18854464,
+     "length": 11322
+    },
+    {
+     "path": "common/chrome/lobby-servers.yaml",
+     "offset": 18865786,
+     "length": 4493
+    },
+    {
+     "path": "common/chrome/lobby.yaml",
+     "offset": 18870279,
+     "length": 3243
+    },
+    {
+     "path": "common/chrome/mainmenu-prompts.yaml",
+     "offset": 18873522,
+     "length": 12117
+    },
+    {
+     "path": "common/chrome/mainmenu.yaml",
+     "offset": 18885639,
+     "length": 6429
+    },
+    {
+     "path": "common/chrome/map-chooser.yaml",
+     "offset": 18892068,
+     "length": 6129
+    },
+    {
+     "path": "common/chrome/missionbrowser.yaml",
+     "offset": 18898197,
+     "length": 6427
+    },
+    {
+     "path": "common/chrome/multiplayer-browser.yaml",
+     "offset": 18904624,
+     "length": 5684
+    },
+    {
+     "path": "common/chrome/multiplayer-browserpanels.yaml",
+     "offset": 18910308,
+     "length": 1716
+    },
+    {
+     "path": "common/chrome/multiplayer-createserver.yaml",
+     "offset": 18912024,
+     "length": 4559
+    },
+    {
+     "path": "common/chrome/multiplayer-directconnect.yaml",
+     "offset": 18916583,
+     "length": 1061
+    },
+    {
+     "path": "common/chrome/musicplayer.yaml",
+     "offset": 18917644,
+     "length": 3681
+    },
+    {
+     "path": "common/chrome/playerprofile.yaml",
+     "offset": 18921325,
+     "length": 2798
+    },
+    {
+     "path": "common/chrome/replaybrowser.yaml",
+     "offset": 18924123,
+     "length": 6178
+    },
+    {
+     "path": "common/chrome/settings-advanced.yaml",
+     "offset": 18930301,
+     "length": 5740
+    },
+    {
+     "path": "common/chrome/settings-audio.yaml",
+     "offset": 18936041,
+     "length": 3921
+    },
+    {
+     "path": "common/chrome/settings-display.yaml",
+     "offset": 18939962,
+     "length": 8750
+    },
+    {
+     "path": "common/chrome/settings-gameplay.yaml",
+     "offset": 18948712,
+     "length": 5644
+    },
+    {
+     "path": "common/chrome/settings-hotkeys.yaml",
+     "offset": 18954356,
+     "length": 4156
+    },
+    {
+     "path": "common/chrome/settings-input.yaml",
+     "offset": 18958512,
+     "length": 10544
+    },
+    {
+     "path": "common/chrome/settings.yaml",
+     "offset": 18969056,
+     "length": 1288
+    },
+    {
+     "path": "common/chrome/text-notifications.yaml",
+     "offset": 18970344,
+     "length": 941
+    },
+    {
+     "path": "common/chrome/tooltips.yaml",
+     "offset": 18971285,
+     "length": 5764
+    },
+    {
+     "path": "common/fluent/chrome.ftl",
+     "offset": 18977049,
+     "length": 33374
+    },
+    {
+     "path": "common/fluent/common.ftl",
+     "offset": 19010423,
+     "length": 36473
+    },
+    {
+     "path": "common/fluent/hotkeys.ftl",
+     "offset": 19046896,
+     "length": 9184
+    },
+    {
+     "path": "common/fluent/ingame-debug.ftl",
+     "offset": 19056080,
+     "length": 1628
+    },
+    {
+     "path": "common/fluent/rules.ftl",
+     "offset": 19057708,
+     "length": 1766
+    },
+    {
+     "path": "common/hotkeys/chat.yaml",
+     "offset": 19059474,
+     "length": 479
+    },
+    {
+     "path": "common/hotkeys/control-groups.yaml",
+     "offset": 19059953,
+     "length": 7480
+    },
+    {
+     "path": "common/hotkeys/editor.yaml",
+     "offset": 19067433,
+     "length": 1889
+    },
+    {
+     "path": "common/hotkeys/game.yaml",
+     "offset": 19069322,
+     "length": 2902
+    },
+    {
+     "path": "common/hotkeys/observer.yaml",
+     "offset": 19072224,
+     "length": 1669
+    },
+    {
+     "path": "common/hotkeys/production-common.yaml",
+     "offset": 19073893,
+     "length": 2853
+    },
+    {
+     "path": "common/hotkeys/supportpowers.yaml",
+     "offset": 19076746,
+     "length": 623
+    },
+    {
+     "path": "common/hotkeys/viewport.yaml",
+     "offset": 19077369,
+     "length": 2747
+    },
+    {
+     "path": "common/scripts/utils.lua",
+     "offset": 19080116,
+     "length": 1660
+    }
+   ]
+  },
+  {
+   "name": "content",
+   "data": "content-bundle.bin",
+   "entries": [
+    {
+     "path": "Content/cnc/cclocal.mix",
+     "offset": 0,
+     "length": 121305
+    },
+    {
+     "path": "Content/cnc/conquer.mix",
+     "offset": 121305,
+     "length": 2039435
+    },
+    {
+     "path": "Content/cnc/desert.mix",
+     "offset": 2160740,
+     "length": 677061
+    },
+    {
+     "path": "Content/cnc/general.mix",
+     "offset": 2837801,
+     "length": 2584388
+    },
+    {
+     "path": "Content/cnc/sounds.mix",
+     "offset": 5422189,
+     "length": 1228794
+    },
+    {
+     "path": "Content/cnc/speech.mix",
+     "offset": 6650983,
+     "length": 594297
+    },
+    {
+     "path": "Content/cnc/temperat.mix",
+     "offset": 7245280,
+     "length": 639607
+    },
+    {
+     "path": "Content/cnc/tempicnh.mix",
+     "offset": 7884887,
+     "length": 119935
+    },
+    {
+     "path": "Content/cnc/transit.mix",
+     "offset": 8004822,
+     "length": 1907405
+    },
+    {
+     "path": "Content/cnc/updatec.mix",
+     "offset": 9912227,
+     "length": 990901
+    },
+    {
+     "path": "Content/cnc/winter.mix",
+     "offset": 10903128,
+     "length": 667385
+    }
+   ]
+  }
+ ]
+}
