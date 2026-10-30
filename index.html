@@ -170,7 +170,20 @@
 
         async function runShellmapStartup(timeoutMs) {
             const deadline = Date.now() + timeoutMs;
-            const begin = await dotnetStepAsync('Preparing shellmap startup...', 'Step_BeginShellmapStart');
+            // The fork populates its map cache asynchronously; the first
+            // BeginShellmapStart can race it (NRE inside ChooseShellmap).
+            // Retry - a later attempt lands after LoadMaps finished.
+            let begin = null;
+            for (let attempt = 1; attempt <= 10; attempt++) {
+                try {
+                    begin = await dotnetStepAsync('Preparing shellmap startup...', 'Step_BeginShellmapStart');
+                    break;
+                } catch (e) {
+                    log('[Shellmap] begin attempt ' + attempt + ' failed: ' + e);
+                    if (attempt >= 10) throw e;
+                    await new Promise(r => { const c = new MessageChannel(); c.port1.onmessage = () => r(); c.port2.postMessage(null); });
+                }
+            }
             log('[Shellmap] begin = ' + begin);
             let step = 0;
 
