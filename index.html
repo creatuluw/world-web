@@ -557,11 +557,16 @@
             }
 
             setPhase('starting-shellmap');
-            await withTimeout(
-                runShellmapStartup(initTimeoutMs),
-                initTimeoutMs,
-                'Shellmap startup timed out'
-            );
+            try {
+                await withTimeout(
+                    runShellmapStartup(initTimeoutMs),
+                    initTimeoutMs,
+                    'Shellmap startup timed out'
+                );
+            } catch (e) {
+                log('[Shellmap] non-fatal shellmap failure: ' + e);
+                status('Skipping menu background...');
+            }
 
             setPhase('starting-loop');
             await dotnetStep('Starting game loop...', 'Step_StartLoop');
