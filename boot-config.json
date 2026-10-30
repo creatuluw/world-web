@@ -8,11 +8,16 @@
     "urlPrefix": "",
     "files": null
   },
+  "supportDirectories": [
+    "/openra-support/Content/cnc"
+  ],
   "requiredPaths": [
     "/openra/VERSION",
     "/openra/glsl/combined.vert",
     "/openra/mods/world/mod.yaml",
-    "/openra/mods/cnc/mod.yaml",
+    "/openra/mods/world.oramod",
+    "/openra/mods/cnc.oramod",
+    "/openra/mods/common.oramod",
     "/openra-support/settings.yaml"
   ],
   "defaultSkirmishTitle": null

@@ -170,9 +170,6 @@
 
         async function runShellmapStartup(timeoutMs) {
             const deadline = Date.now() + timeoutMs;
-            // The fork populates its map cache asynchronously; the first
-            // BeginShellmapStart can race it (NRE inside ChooseShellmap).
-            // Retry - a later attempt lands after LoadMaps finished.
             let begin = null;
             for (let attempt = 1; attempt <= 10; attempt++) {
                 try {
